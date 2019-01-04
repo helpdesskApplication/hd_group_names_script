@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_Oman",
+    "name": "Oman Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Oman",
+    "name": "Oman Attorneys"
+  },
+  {
+    "GUID": "Doctors_Oman",
+    "name": "Oman Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Oman",
+    "name": "Oman Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Oman",
+    "name": "Oman Professionals"
+  },
+  {
+    "GUID": "Advertisements_Oman",
+    "name": "Oman Advertisements"
+  }
+]

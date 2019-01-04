@@ -1,0 +1,122 @@
+[
+  {
+    "GUID": "Classifieds_Sydney",
+    "name": "Sydney Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Sydney",
+    "name": "Sydney Attorneys"
+  },
+  {
+    "GUID": "Doctors_Sydney",
+    "name": "Sydney Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Sydney",
+    "name": "Sydney Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Sydney",
+    "name": "Sydney Professionals"
+  },
+  {
+    "GUID": "Advertisements_Sydney",
+    "name": "Sydney Advertisements"
+  },
+  {
+    "GUID": "Classifieds_Perth",
+    "name": "Perth Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Perth",
+    "name": "Perth Attorneys"
+  },
+  {
+    "GUID": "Doctors_Perth",
+    "name": "Perth Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Perth",
+    "name": "Perth Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Perth",
+    "name": "Perth Professionals"
+  },
+  {
+    "GUID": "Advertisements_Perth",
+    "name": "Perth Advertisements"
+  },
+  {
+    "GUID": "Classifieds_Melbourne",
+    "name": "Melbourne Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Melbourne",
+    "name": "Melbourne Attorneys"
+  },
+  {
+    "GUID": "Doctors_Melbourne",
+    "name": "Melbourne Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Melbourne",
+    "name": "Melbourne Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Melbourne",
+    "name": "Melbourne Professionals"
+  },
+  {
+    "GUID": "Advertisements_Melbourne",
+    "name": "Melbourne Advertisements"
+  },
+  {
+    "GUID": "Classifieds_Victoria",
+    "name": "Victoria Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Victoria",
+    "name": "Victoria Attorneys"
+  },
+  {
+    "GUID": "Doctors_Victoria",
+    "name": "Victoria Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Victoria",
+    "name": "Victoria Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Victoria",
+    "name": "Victoria Professionals"
+  },
+  {
+    "GUID": "Advertisements_Victoria",
+    "name": "Victoria Advertisements"
+  },
+  {
+    "GUID": "Classifieds_GlobalAustralia",
+    "name": "Global Australia Classifieds"
+  },
+  {
+    "GUID": "Attorneys_GlobalAustralia",
+    "name": "Global Australia Attorneys"
+  },
+  {
+    "GUID": "Doctors_GlobalAustralia",
+    "name": "Global Australia Doctors"
+  },
+  {
+    "GUID": "Matrimonials_GlobalAustralia",
+    "name": "Global Australia Matrimonials"
+  },
+  {
+    "GUID": "Professionals_GlobalAustralia",
+    "name": "Global Australia Professionals"
+  },
+  {
+    "GUID": "Advertisements_GlobalAustralia",
+    "name": "Global Australia Advertisements"
+  }
+]

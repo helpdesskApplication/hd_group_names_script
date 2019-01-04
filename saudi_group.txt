@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_Saudi",
+    "name": "Saudi Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Saudi",
+    "name": "Saudi Attorneys"
+  },
+  {
+    "GUID": "Doctors_Saudi",
+    "name": "Saudi Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Saudi",
+    "name": "Saudi Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Saudi",
+    "name": "Saudi Professionals"
+  },
+  {
+    "GUID": "Advertisements_Saudi",
+    "name": "Saudi Advertisements"
+  }
+]

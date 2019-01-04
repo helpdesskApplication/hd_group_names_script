@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_Pakistan",
+    "name": "Pakistan Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Pakistan",
+    "name": "Pakistan Attorneys"
+  },
+  {
+    "GUID": "Doctors_Pakistan",
+    "name": "Pakistan Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Pakistan",
+    "name": "Pakistan Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Pakistan",
+    "name": "Pakistan Professionals"
+  },
+  {
+    "GUID": "Advertisements_Pakistan",
+    "name": "Pakistan Advertisements"
+  }
+]

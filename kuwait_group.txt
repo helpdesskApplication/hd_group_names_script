@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_Kuwait",
+    "name": "Kuwait Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Kuwait",
+    "name": "Kuwait Attorneys"
+  },
+  {
+    "GUID": "Doctors_Kuwait",
+    "name": "Kuwait Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Kuwait",
+    "name": "Kuwait Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Kuwait",
+    "name": "Kuwait Professionals"
+  },
+  {
+    "GUID": "Advertisements_Kuwait",
+    "name": "Kuwait Advertisements"
+  }
+]

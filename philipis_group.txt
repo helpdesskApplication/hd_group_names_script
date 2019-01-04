@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_Philippines",
+    "name": "Philippines Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Philippines",
+    "name": "Philippines Attorneys"
+  },
+  {
+    "GUID": "Doctors_Philippines",
+    "name": "Philippines Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Philippines",
+    "name": "Philippines Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Philippines",
+    "name": "Philippines Professionals"
+  },
+  {
+    "GUID": "Advertisements_Philippines",
+    "name": "Philippines Advertisements"
+  }
+]

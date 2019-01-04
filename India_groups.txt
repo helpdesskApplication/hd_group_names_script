@@ -1,0 +1,242 @@
+[
+  {
+    "GUID": "Classifieds_India_AndhraPradesh",
+    "name": "Andhra Pradesh India Classifieds"
+  },
+  {
+    "GUID": "Attorneys_India_AndhraPradesh",
+    "name": "Andhra Pradesh India Attorneys"
+  },
+  {
+    "GUID": "Doctors_India_AndhraPradesh",
+    "name": "Andhra Pradesh India Doctors"
+  },
+  {
+    "GUID": "Matrimonials_India_AndhraPradesh",
+    "name": "Andhra Pradesh India Matrimonials"
+  },
+  {
+    "GUID": "Professionals_India_AndhraPradesh",
+    "name": "Andhra Pradesh India Professionals"
+  },
+  {
+    "GUID": "Advertisements_India_AndhraPradesh",
+    "name": "Andhra Pradesh India Advertisements"
+  },
+  {
+    "GUID": "Classifieds_India_Telangana",
+    "name": "Telangana India Classifieds"
+  },
+  {
+    "GUID": "Attorneys_India_Telangana",
+    "name": "Telangana India Attorneys"
+  },
+  {
+    "GUID": "Doctors_India_Telangana",
+    "name": "Telangana India Doctors"
+  },
+  {
+    "GUID": "Matrimonials_India_Telangana",
+    "name": "Telangana India Matrimonials"
+  },
+  {
+    "GUID": "Professionals_India_Telangana",
+    "name": "Telangana India Professionals"
+  },
+  {
+    "GUID": "Advertisements_India_Telangana",
+    "name": "Telangana India Advertisements"
+  },
+  {
+    "GUID": "Classifieds_India_Maharashtra",
+    "name": "Maharashtra India Classifieds"
+  },
+  {
+    "GUID": "Attorneys_India_Maharashtra",
+    "name": "Maharashtra India Attorneys"
+  },
+  {
+    "GUID": "Doctors_India_Maharashtra",
+    "name": "Maharashtra India Doctors"
+  },
+  {
+    "GUID": "Matrimonials_India_Maharashtra",
+    "name": "Maharashtra India Matrimonials"
+  },
+  {
+    "GUID": "Professionals_India_Maharashtra",
+    "name": "Maharashtra India Professionals"
+  },
+  {
+    "GUID": "Advertisements_India_Maharashtra",
+    "name": "Maharashtra India Advertisements"
+  },
+  {
+    "GUID": "Classifieds_India_Karnataka",
+    "name": "Karnataka India Classifieds"
+  },
+  {
+    "GUID": "Attorneys_India_Karnataka",
+    "name": "Karnataka India Attorneys"
+  },
+  {
+    "GUID": "Doctors_India_Karnataka",
+    "name": "Karnataka India Doctors"
+  },
+  {
+    "GUID": "Matrimonials_India_Karnataka",
+    "name": "Karnataka India Matrimonials"
+  },
+  {
+    "GUID": "Professionals_India_Karnataka",
+    "name": "Karnataka India Professionals"
+  },
+  {
+    "GUID": "Advertisements_India_Karnataka",
+    "name": "Karnataka India Advertisements"
+  },
+  {
+    "GUID": "Classifieds_India_TamilNadu",
+    "name": "Tamil Nadu India Classifieds"
+  },
+  {
+    "GUID": "Attorneys_India_TamilNadu",
+    "name": "Tamil Nadu India Attorneys"
+  },
+  {
+    "GUID": "Doctors_India_TamilNadu",
+    "name": "Tamil Nadu India Doctors"
+  },
+  {
+    "GUID": "Matrimonials_India_TamilNadu",
+    "name": "Tamil Nadu India Matrimonials"
+  },
+  {
+    "GUID": "Professionals_India_TamilNadu",
+    "name": "Tamil Nadu India Professionals"
+  },
+  {
+    "GUID": "Advertisements_India_TamilNadu",
+    "name": "Tamil Nadu India Advertisements"
+  },
+  {
+    "GUID": "Classifieds_India_Gujarat",
+    "name": "Gujarat India Classifieds"
+  },
+  {
+    "GUID": "Attorneys_India_Gujarat",
+    "name": "Gujarat India Attorneys"
+  },
+  {
+    "GUID": "Doctors_India_Gujarat",
+    "name": "Gujarat India Doctors"
+  },
+  {
+    "GUID": "Matrimonials_India_Gujarat",
+    "name": "Gujarat India Matrimonials"
+  },
+  {
+    "GUID": "Professionals_India_Gujarat",
+    "name": "Gujarat India Professionals"
+  },
+  {
+    "GUID": "Advertisements_India_Gujarat",
+    "name": "Gujarat India Advertisements"
+  },
+  {
+    "GUID": "Classifieds_India_Kerala",
+    "name": "Kerala India Classifieds"
+  },
+  {
+    "GUID": "Attorneys_India_Kerala",
+    "name": "Kerala India Attorneys"
+  },
+  {
+    "GUID": "Doctors_India_Kerala",
+    "name": "Kerala India Doctors"
+  },
+  {
+    "GUID": "Matrimonials_India_Kerala",
+    "name": "Kerala India Matrimonials"
+  },
+  {
+    "GUID": "Professionals_India_Kerala",
+    "name": "Kerala India Professionals"
+  },
+  {
+    "GUID": "Advertisements_India_Kerala",
+    "name": "Kerala India Advertisements"
+  },
+  {
+    "GUID": "Classifieds_India_WestBengal",
+    "name": "West Bengal India Classifieds"
+  },
+  {
+    "GUID": "Attorneys_India_WestBengal",
+    "name": "West Bengal India Attorneys"
+  },
+  {
+    "GUID": "Doctors_India_WestBengal",
+    "name": "West Bengal India Doctors"
+  },
+  {
+    "GUID": "Matrimonials_India_WestBengal",
+    "name": "West Bengal India Matrimonials"
+  },
+  {
+    "GUID": "Professionals_India_WestBengal",
+    "name": "West Bengal India Professionals"
+  },
+  {
+    "GUID": "Advertisements_India_WestBengal",
+    "name": "West Bengal India Advertisements"
+  },
+  {
+    "GUID": "Classifieds_India_NewDelhi",
+    "name": "New Delhi India Classifieds"
+  },
+  {
+    "GUID": "Attorneys_India_NewDelhi",
+    "name": "New Delhi India Attorneys"
+  },
+  {
+    "GUID": "Doctors_India_NewDelhi",
+    "name": "New Delhi India Doctors"
+  },
+  {
+    "GUID": "Matrimonials_India_NewDelhi",
+    "name": "New Delhi India Matrimonials"
+  },
+  {
+    "GUID": "Professionals_India_NewDelhi",
+    "name": "New Delhi India Professionals"
+  },
+  {
+    "GUID": "Advertisements_India_NewDelhi",
+    "name": "New Delhi India Advertisements"
+  },
+  {
+    "GUID": "Classifieds_India_Hyderabad",
+    "name": "Hyderabad India Classifieds"
+  },
+  {
+    "GUID": "Attorneys_India_Hyderabad",
+    "name": "Hyderabad India Attorneys"
+  },
+  {
+    "GUID": "Doctors_India_Hyderabad",
+    "name": "Hyderabad India Doctors"
+  },
+  {
+    "GUID": "Matrimonials_India_Hyderabad",
+    "name": "Hyderabad India Matrimonials"
+  },
+  {
+    "GUID": "Professionals_India_Hyderabad",
+    "name": "Hyderabad India Professionals"
+  },
+  {
+    "GUID": "Advertisements_India_Hyderabad",
+    "name": "Hyderabad India Advertisements"
+  }
+]

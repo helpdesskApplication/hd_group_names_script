@@ -1,0 +1,194 @@
+[
+  {
+    "GUID": "Classifieds_UnitedKingdom_CentralLondon",
+    "name": "Central London United Kingdom Classifieds"
+  },
+  {
+    "GUID": "Attorneys_UnitedKingdom_CentralLondon",
+    "name": "Central London United Kingdom Attorneys"
+  },
+  {
+    "GUID": "Doctors_UnitedKingdom_CentralLondon",
+    "name": "Central London United Kingdom Doctors"
+  },
+  {
+    "GUID": "Matrimonials_UnitedKingdom_CentralLondon",
+    "name": "Central London United Kingdom Matrimonials"
+  },
+  {
+    "GUID": "Professionals_UnitedKingdom_CentralLondon",
+    "name": "Central London United Kingdom Professionals"
+  },
+  {
+    "GUID": "Advertisements_UnitedKingdom_CentralLondon",
+    "name": "Central London United Kingdom Advertisements"
+  },
+  {
+    "GUID": "Classifieds_UnitedKingdom_Paris",
+    "name": "Paris United Kingdom Classifieds"
+  },
+  {
+    "GUID": "Attorneys_UnitedKingdom_Paris",
+    "name": "Paris United Kingdom Attorneys"
+  },
+  {
+    "GUID": "Doctors_UnitedKingdom_Paris",
+    "name": "Paris United Kingdom Doctors"
+  },
+  {
+    "GUID": "Matrimonials_UnitedKingdom_Paris",
+    "name": "Paris United Kingdom Matrimonials"
+  },
+  {
+    "GUID": "Professionals_UnitedKingdom_Paris",
+    "name": "Paris United Kingdom Professionals"
+  },
+  {
+    "GUID": "Advertisements_UnitedKingdom_Paris",
+    "name": "Paris United Kingdom Advertisements"
+  },
+  {
+    "GUID": "Classifieds_UnitedKingdom_Manchester",
+    "name": "Manchester United Kingdom Classifieds"
+  },
+  {
+    "GUID": "Attorneys_UnitedKingdom_Manchester",
+    "name": "Manchester United Kingdom Attorneys"
+  },
+  {
+    "GUID": "Doctors_UnitedKingdom_Manchester",
+    "name": "Manchester United Kingdom Doctors"
+  },
+  {
+    "GUID": "Matrimonials_UnitedKingdom_Manchester",
+    "name": "Manchester United Kingdom Matrimonials"
+  },
+  {
+    "GUID": "Professionals_UnitedKingdom_Manchester",
+    "name": "Manchester United Kingdom Professionals"
+  },
+  {
+    "GUID": "Advertisements_UnitedKingdom_Manchester",
+    "name": "Manchester United Kingdom Advertisements"
+  },
+  {
+    "GUID": "Classifieds_UnitedKingdom_London",
+    "name": "London United Kingdom Classifieds"
+  },
+  {
+    "GUID": "Attorneys_UnitedKingdom_London",
+    "name": "London United Kingdom Attorneys"
+  },
+  {
+    "GUID": "Doctors_UnitedKingdom_London",
+    "name": "London United Kingdom Doctors"
+  },
+  {
+    "GUID": "Matrimonials_UnitedKingdom_London",
+    "name": "London United Kingdom Matrimonials"
+  },
+  {
+    "GUID": "Professionals_UnitedKingdom_London",
+    "name": "London United Kingdom Professionals"
+  },
+  {
+    "GUID": "Advertisements_UnitedKingdom_London",
+    "name": "London United Kingdom Advertisements"
+  },
+  {
+    "GUID": "Classifieds_UnitedKingdom_Liverpool",
+    "name": "Liverpool United Kingdom Classifieds"
+  },
+  {
+    "GUID": "Attorneys_UnitedKingdom_Liverpool",
+    "name": "Liverpool United Kingdom Attorneys"
+  },
+  {
+    "GUID": "Doctors_UnitedKingdom_Liverpool",
+    "name": "Liverpool United Kingdom Doctors"
+  },
+  {
+    "GUID": "Matrimonials_UnitedKingdom_Liverpool",
+    "name": "Liverpool United Kingdom Matrimonials"
+  },
+  {
+    "GUID": "Professionals_UnitedKingdom_Liverpool",
+    "name": "Liverpool United Kingdom Professionals"
+  },
+  {
+    "GUID": "Advertisements_UnitedKingdom_Liverpool",
+    "name": "Liverpool United Kingdom Advertisements"
+  },
+  {
+    "GUID": "Classifieds_UnitedKingdom_Birmingham",
+    "name": "Birmingham United Kingdom Classifieds"
+  },
+  {
+    "GUID": "Attorneys_UnitedKingdom_Birmingham",
+    "name": "Birmingham United Kingdom Attorneys"
+  },
+  {
+    "GUID": "Doctors_UnitedKingdom_Birmingham",
+    "name": "Birmingham United Kingdom Doctors"
+  },
+  {
+    "GUID": "Matrimonials_UnitedKingdom_Birmingham",
+    "name": "Birmingham United Kingdom Matrimonials"
+  },
+  {
+    "GUID": "Professionals_UnitedKingdom_Birmingham",
+    "name": "Birmingham United Kingdom Professionals"
+  },
+  {
+    "GUID": "Advertisements_UnitedKingdom_Birmingham",
+    "name": "Birmingham United Kingdom Advertisements"
+  },
+  {
+    "GUID": "Classifieds_UnitedKingdom_Cambridge",
+    "name": "Cambridge United Kingdom Classifieds"
+  },
+  {
+    "GUID": "Attorneys_UnitedKingdom_Cambridge",
+    "name": "Cambridge United Kingdom Attorneys"
+  },
+  {
+    "GUID": "Doctors_UnitedKingdom_Cambridge",
+    "name": "Cambridge United Kingdom Doctors"
+  },
+  {
+    "GUID": "Matrimonials_UnitedKingdom_Cambridge",
+    "name": "Cambridge United Kingdom Matrimonials"
+  },
+  {
+    "GUID": "Professionals_UnitedKingdom_Cambridge",
+    "name": "Cambridge United Kingdom Professionals"
+  },
+  {
+    "GUID": "Advertisements_UnitedKingdom_Cambridge",
+    "name": "Cambridge United Kingdom Advertisements"
+  },
+  {
+    "GUID": "Classifieds_UnitedKingdom_GlobalUK",
+    "name": "Global UK United Kingdom Classifieds"
+  },
+  {
+    "GUID": "Attorneys_UnitedKingdom_GlobalUK",
+    "name": "Global UK United Kingdom Attorneys"
+  },
+  {
+    "GUID": "Doctors_UnitedKingdom_GlobalUK",
+    "name": "Global UK United Kingdom Doctors"
+  },
+  {
+    "GUID": "Matrimonials_UnitedKingdom_GlobalUK",
+    "name": "Global UK United Kingdom Matrimonials"
+  },
+  {
+    "GUID": "Professionals_UnitedKingdom_GlobalUK",
+    "name": "Global UK United Kingdom Professionals"
+  },
+  {
+    "GUID": "Advertisements_UnitedKingdom_GlobalUK",
+    "name": "Global UK United Kingdom Advertisements"
+  }
+]

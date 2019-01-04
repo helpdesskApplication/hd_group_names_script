@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_Ireland",
+    "name": "Ireland Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Ireland",
+    "name": "Ireland Attorneys"
+  },
+  {
+    "GUID": "Doctors_Ireland",
+    "name": "Ireland Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Ireland",
+    "name": "Ireland Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Ireland",
+    "name": "Ireland Professionals"
+  },
+  {
+    "GUID": "Advertisements_Ireland",
+    "name": "Ireland Advertisements"
+  }
+]

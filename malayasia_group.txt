@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_Malaysia",
+    "name": "Malaysia Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Malaysia",
+    "name": "Malaysia Attorneys"
+  },
+  {
+    "GUID": "Doctors_Malaysia",
+    "name": "Malaysia Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Malaysia",
+    "name": "Malaysia Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Malaysia",
+    "name": "Malaysia Professionals"
+  },
+  {
+    "GUID": "Advertisements_Malaysia",
+    "name": "Malaysia Advertisements"
+  }
+]

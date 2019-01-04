@@ -1,0 +1,194 @@
+[
+  {
+    "GUID": "Classifieds_Canada_Ontario",
+    "name": "Ontario Canada Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Canada_Ontario",
+    "name": "Ontario Canada Attorneys"
+  },
+  {
+    "GUID": "Doctors_Canada_Ontario",
+    "name": "Ontario Canada Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Canada_Ontario",
+    "name": "Ontario Canada Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Canada_Ontario",
+    "name": "Ontario Canada Professionals"
+  },
+  {
+    "GUID": "Advertisements_Canada_Ontario",
+    "name": "Ontario Canada Advertisements"
+  },
+  {
+    "GUID": "Classifieds_Canada_BritishColumbia",
+    "name": "British Columbia Canada Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Canada_BritishColumbia",
+    "name": "British Columbia Canada Attorneys"
+  },
+  {
+    "GUID": "Doctors_Canada_BritishColumbia",
+    "name": "British Columbia Canada Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Canada_BritishColumbia",
+    "name": "British Columbia Canada Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Canada_BritishColumbia",
+    "name": "British Columbia Canada Professionals"
+  },
+  {
+    "GUID": "Advertisements_Canada_BritishColumbia",
+    "name": "British Columbia Canada Advertisements"
+  },
+  {
+    "GUID": "Classifieds_Canada_Quebec",
+    "name": "Quebec Canada Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Canada_Quebec",
+    "name": "Quebec Canada Attorneys"
+  },
+  {
+    "GUID": "Doctors_Canada_Quebec",
+    "name": "Quebec Canada Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Canada_Quebec",
+    "name": "Quebec Canada Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Canada_Quebec",
+    "name": "Quebec Canada Professionals"
+  },
+  {
+    "GUID": "Advertisements_Canada_Quebec",
+    "name": "Quebec Canada Advertisements"
+  },
+  {
+    "GUID": "Classifieds_Canada_Alberta",
+    "name": "Alberta Canada Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Canada_Alberta",
+    "name": "Alberta Canada Attorneys"
+  },
+  {
+    "GUID": "Doctors_Canada_Alberta",
+    "name": "Alberta Canada Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Canada_Alberta",
+    "name": "Alberta Canada Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Canada_Alberta",
+    "name": "Alberta Canada Professionals"
+  },
+  {
+    "GUID": "Advertisements_Canada_Alberta",
+    "name": "Alberta Canada Advertisements"
+  },
+  {
+    "GUID": "Classifieds_Canada_Toronto",
+    "name": "Toronto Canada Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Canada_Toronto",
+    "name": "Toronto Canada Attorneys"
+  },
+  {
+    "GUID": "Doctors_Canada_Toronto",
+    "name": "Toronto Canada Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Canada_Toronto",
+    "name": "Toronto Canada Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Canada_Toronto",
+    "name": "Toronto Canada Professionals"
+  },
+  {
+    "GUID": "Advertisements_Canada_Toronto",
+    "name": "Toronto Canada Advertisements"
+  },
+  {
+    "GUID": "Classifieds_Canada_Montreal",
+    "name": "Montreal Canada Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Canada_Montreal",
+    "name": "Montreal Canada Attorneys"
+  },
+  {
+    "GUID": "Doctors_Canada_Montreal",
+    "name": "Montreal Canada Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Canada_Montreal",
+    "name": "Montreal Canada Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Canada_Montreal",
+    "name": "Montreal Canada Professionals"
+  },
+  {
+    "GUID": "Advertisements_Canada_Montreal",
+    "name": "Montreal Canada Advertisements"
+  },
+  {
+    "GUID": "Classifieds_Canada_Mississauga",
+    "name": "Mississauga Canada Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Canada_Mississauga",
+    "name": "Mississauga Canada Attorneys"
+  },
+  {
+    "GUID": "Doctors_Canada_Mississauga",
+    "name": "Mississauga Canada Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Canada_Mississauga",
+    "name": "Mississauga Canada Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Canada_Mississauga",
+    "name": "Mississauga Canada Professionals"
+  },
+  {
+    "GUID": "Advertisements_Canada_Mississauga",
+    "name": "Mississauga Canada Advertisements"
+  },
+  {
+    "GUID": "Classifieds_Canada_GlobalCanada",
+    "name": "Global Canada Canada Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Canada_GlobalCanada",
+    "name": "Global Canada Canada Attorneys"
+  },
+  {
+    "GUID": "Doctors_Canada_GlobalCanada",
+    "name": "Global Canada Canada Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Canada_GlobalCanada",
+    "name": "Global Canada Canada Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Canada_GlobalCanada",
+    "name": "Global Canada Canada Professionals"
+  },
+  {
+    "GUID": "Advertisements_Canada_GlobalCanada",
+    "name": "Global Canada Canada Advertisements"
+  }
+]

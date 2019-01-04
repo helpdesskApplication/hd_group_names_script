@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_Bangladesh",
+    "name": "Bangladesh Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Bangladesh",
+    "name": "Bangladesh Attorneys"
+  },
+  {
+    "GUID": "Doctors_Bangladesh",
+    "name": "Bangladesh Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Bangladesh",
+    "name": "Bangladesh Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Bangladesh",
+    "name": "Bangladesh Professionals"
+  },
+  {
+    "GUID": "Advertisements_Bangladesh",
+    "name": "Bangladesh Advertisements"
+  }
+]

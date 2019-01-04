@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_Indonesia",
+    "name": "Indonesia Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Indonesia",
+    "name": "Indonesia Attorneys"
+  },
+  {
+    "GUID": "Doctors_Indonesia",
+    "name": "Indonesia Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Indonesia",
+    "name": "Indonesia Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Indonesia",
+    "name": "Indonesia Professionals"
+  },
+  {
+    "GUID": "Advertisements_Indonesia",
+    "name": "Indonesia Advertisements"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_Turkey",
+    "name": "Turkey Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Turkey",
+    "name": "Turkey Attorneys"
+  },
+  {
+    "GUID": "Doctors_Turkey",
+    "name": "Turkey Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Turkey",
+    "name": "Turkey Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Turkey",
+    "name": "Turkey Professionals"
+  },
+  {
+    "GUID": "Advertisements_Turkey",
+    "name": "Turkey Advertisements"
+  }
+]

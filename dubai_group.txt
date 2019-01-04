@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_Dubai",
+    "name": "Dubai Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Dubai",
+    "name": "Dubai Attorneys"
+  },
+  {
+    "GUID": "Doctors_Dubai",
+    "name": "Dubai Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Dubai",
+    "name": "Dubai Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Dubai",
+    "name": "Dubai Professionals"
+  },
+  {
+    "GUID": "Advertisements_Dubai",
+    "name": "Dubai Advertisements"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_China",
+    "name": "China Classifieds"
+  },
+  {
+    "GUID": "Attorneys_China",
+    "name": "China Attorneys"
+  },
+  {
+    "GUID": "Doctors_China",
+    "name": "China Doctors"
+  },
+  {
+    "GUID": "Matrimonials_China",
+    "name": "China Matrimonials"
+  },
+  {
+    "GUID": "Professionals_China",
+    "name": "China Professionals"
+  },
+  {
+    "GUID": "Advertisements_China",
+    "name": "China Advertisements"
+  }
+]

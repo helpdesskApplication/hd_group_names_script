@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_Germany",
+    "name": "Germany Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Germany",
+    "name": "Germany Attorneys"
+  },
+  {
+    "GUID": "Doctors_Germany",
+    "name": "Germany Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Germany",
+    "name": "Germany Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Germany",
+    "name": "Germany Professionals"
+  },
+  {
+    "GUID": "Advertisements_Germany",
+    "name": "Germany Advertisements"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_Singapore",
+    "name": "Singapore Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Singapore",
+    "name": "Singapore Attorneys"
+  },
+  {
+    "GUID": "Doctors_Singapore",
+    "name": "Singapore Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Singapore",
+    "name": "Singapore Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Singapore",
+    "name": "Singapore Professionals"
+  },
+  {
+    "GUID": "Advertisements_Singapore",
+    "name": "Singapore Advertisements"
+  }
+]

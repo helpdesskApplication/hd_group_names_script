@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_Qatar",
+    "name": "Qatar Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Qatar",
+    "name": "Qatar Attorneys"
+  },
+  {
+    "GUID": "Doctors_Qatar",
+    "name": "Qatar Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Qatar",
+    "name": "Qatar Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Qatar",
+    "name": "Qatar Professionals"
+  },
+  {
+    "GUID": "Advertisements_Qatar",
+    "name": "Qatar Advertisements"
+  }
+]

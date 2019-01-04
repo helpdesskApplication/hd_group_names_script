@@ -1,0 +1,26 @@
+[
+  {
+    "GUID": "Classifieds_Bahrain",
+    "name": "Bahrain Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Bahrain",
+    "name": "Bahrain Attorneys"
+  },
+  {
+    "GUID": "Doctors_Bahrain",
+    "name": "Bahrain Doctors"
+  },
+  {
+    "GUID": "Matrimonials_Bahrain",
+    "name": "Bahrain Matrimonials"
+  },
+  {
+    "GUID": "Professionals_Bahrain",
+    "name": "Bahrain Professionals"
+  },
+  {
+    "GUID": "Advertisements_Bahrain",
+    "name": "Bahrain Advertisements"
+  }
+]
