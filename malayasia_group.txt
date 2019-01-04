@@ -12,15 +12,15 @@
     "name": "Malaysia Doctors"
   },
   {
-    "GUID": "Matrimonials_Malaysia",
-    "name": "Malaysia Matrimonials"
-  },
-  {
     "GUID": "Professionals_Malaysia",
     "name": "Malaysia Professionals"
   },
   {
-    "GUID": "Advertisements_Malaysia",
-    "name": "Malaysia Advertisements"
+    "GUID": "Education_Malaysia",
+    "name": "Malaysia Education"
+  },
+  {
+    "GUID": "Giveaway_Malaysia",
+    "name": "Malaysia Giveaway"
   }
 ]

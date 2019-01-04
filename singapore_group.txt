@@ -12,15 +12,15 @@
     "name": "Singapore Doctors"
   },
   {
-    "GUID": "Matrimonials_Singapore",
-    "name": "Singapore Matrimonials"
-  },
-  {
     "GUID": "Professionals_Singapore",
     "name": "Singapore Professionals"
   },
   {
-    "GUID": "Advertisements_Singapore",
-    "name": "Singapore Advertisements"
+    "GUID": "Education_Singapore",
+    "name": "Singapore Education"
+  },
+  {
+    "GUID": "Giveaway_Singapore",
+    "name": "Singapore Giveaway"
   }
 ]

@@ -12,15 +12,15 @@
     "name": "Ireland Doctors"
   },
   {
-    "GUID": "Matrimonials_Ireland",
-    "name": "Ireland Matrimonials"
-  },
-  {
     "GUID": "Professionals_Ireland",
     "name": "Ireland Professionals"
   },
   {
-    "GUID": "Advertisements_Ireland",
-    "name": "Ireland Advertisements"
+    "GUID": "Education_Ireland",
+    "name": "Ireland Education"
+  },
+  {
+    "GUID": "Giveaway_Ireland",
+    "name": "Ireland Giveaway"
   }
 ]

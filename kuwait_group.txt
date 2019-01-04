@@ -12,15 +12,15 @@
     "name": "Kuwait Doctors"
   },
   {
-    "GUID": "Matrimonials_Kuwait",
-    "name": "Kuwait Matrimonials"
-  },
-  {
     "GUID": "Professionals_Kuwait",
     "name": "Kuwait Professionals"
   },
   {
-    "GUID": "Advertisements_Kuwait",
-    "name": "Kuwait Advertisements"
+    "GUID": "Education_Kuwait",
+    "name": "Kuwait Education"
+  },
+  {
+    "GUID": "Giveaway_Kuwait",
+    "name": "Kuwait Giveaway"
   }
 ]

@@ -1,242 +1,242 @@
 [
   {
     "GUID": "Classifieds_India_AndhraPradesh",
-    "name": "Andhra Pradesh India Classifieds"
+    "name": "Andhra Pradesh Classifieds"
   },
   {
     "GUID": "Attorneys_India_AndhraPradesh",
-    "name": "Andhra Pradesh India Attorneys"
+    "name": "Andhra Pradesh Attorneys"
   },
   {
     "GUID": "Doctors_India_AndhraPradesh",
-    "name": "Andhra Pradesh India Doctors"
-  },
-  {
-    "GUID": "Matrimonials_India_AndhraPradesh",
-    "name": "Andhra Pradesh India Matrimonials"
+    "name": "Andhra Pradesh Doctors"
   },
   {
     "GUID": "Professionals_India_AndhraPradesh",
-    "name": "Andhra Pradesh India Professionals"
+    "name": "Andhra Pradesh Professionals"
   },
   {
-    "GUID": "Advertisements_India_AndhraPradesh",
-    "name": "Andhra Pradesh India Advertisements"
+    "GUID": "Education_India_AndhraPradesh",
+    "name": "Andhra Pradesh Education"
+  },
+  {
+    "GUID": "Giveaway_India_AndhraPradesh",
+    "name": "Andhra Pradesh Giveaway"
   },
   {
     "GUID": "Classifieds_India_Telangana",
-    "name": "Telangana India Classifieds"
+    "name": "Telangana Classifieds"
   },
   {
     "GUID": "Attorneys_India_Telangana",
-    "name": "Telangana India Attorneys"
+    "name": "Telangana Attorneys"
   },
   {
     "GUID": "Doctors_India_Telangana",
-    "name": "Telangana India Doctors"
-  },
-  {
-    "GUID": "Matrimonials_India_Telangana",
-    "name": "Telangana India Matrimonials"
+    "name": "Telangana Doctors"
   },
   {
     "GUID": "Professionals_India_Telangana",
-    "name": "Telangana India Professionals"
+    "name": "Telangana Professionals"
   },
   {
-    "GUID": "Advertisements_India_Telangana",
-    "name": "Telangana India Advertisements"
+    "GUID": "Education_India_Telangana",
+    "name": "Telangana Education"
+  },
+  {
+    "GUID": "Giveaway_India_Telangana",
+    "name": "Telangana Giveaway"
   },
   {
     "GUID": "Classifieds_India_Maharashtra",
-    "name": "Maharashtra India Classifieds"
+    "name": "Maharashtra Classifieds"
   },
   {
     "GUID": "Attorneys_India_Maharashtra",
-    "name": "Maharashtra India Attorneys"
+    "name": "Maharashtra Attorneys"
   },
   {
     "GUID": "Doctors_India_Maharashtra",
-    "name": "Maharashtra India Doctors"
-  },
-  {
-    "GUID": "Matrimonials_India_Maharashtra",
-    "name": "Maharashtra India Matrimonials"
+    "name": "Maharashtra Doctors"
   },
   {
     "GUID": "Professionals_India_Maharashtra",
-    "name": "Maharashtra India Professionals"
+    "name": "Maharashtra Professionals"
   },
   {
-    "GUID": "Advertisements_India_Maharashtra",
-    "name": "Maharashtra India Advertisements"
+    "GUID": "Education_India_Maharashtra",
+    "name": "Maharashtra Education"
+  },
+  {
+    "GUID": "Giveaway_India_Maharashtra",
+    "name": "Maharashtra Giveaway"
   },
   {
     "GUID": "Classifieds_India_Karnataka",
-    "name": "Karnataka India Classifieds"
+    "name": "Karnataka Classifieds"
   },
   {
     "GUID": "Attorneys_India_Karnataka",
-    "name": "Karnataka India Attorneys"
+    "name": "Karnataka Attorneys"
   },
   {
     "GUID": "Doctors_India_Karnataka",
-    "name": "Karnataka India Doctors"
-  },
-  {
-    "GUID": "Matrimonials_India_Karnataka",
-    "name": "Karnataka India Matrimonials"
+    "name": "Karnataka Doctors"
   },
   {
     "GUID": "Professionals_India_Karnataka",
-    "name": "Karnataka India Professionals"
+    "name": "Karnataka Professionals"
   },
   {
-    "GUID": "Advertisements_India_Karnataka",
-    "name": "Karnataka India Advertisements"
+    "GUID": "Education_India_Karnataka",
+    "name": "Karnataka Education"
+  },
+  {
+    "GUID": "Giveaway_India_Karnataka",
+    "name": "Karnataka Giveaway"
   },
   {
     "GUID": "Classifieds_India_TamilNadu",
-    "name": "Tamil Nadu India Classifieds"
+    "name": "Tamil Nadu Classifieds"
   },
   {
     "GUID": "Attorneys_India_TamilNadu",
-    "name": "Tamil Nadu India Attorneys"
+    "name": "Tamil Nadu Attorneys"
   },
   {
     "GUID": "Doctors_India_TamilNadu",
-    "name": "Tamil Nadu India Doctors"
-  },
-  {
-    "GUID": "Matrimonials_India_TamilNadu",
-    "name": "Tamil Nadu India Matrimonials"
+    "name": "Tamil Nadu Doctors"
   },
   {
     "GUID": "Professionals_India_TamilNadu",
-    "name": "Tamil Nadu India Professionals"
+    "name": "Tamil Nadu Professionals"
   },
   {
-    "GUID": "Advertisements_India_TamilNadu",
-    "name": "Tamil Nadu India Advertisements"
+    "GUID": "Education_India_TamilNadu",
+    "name": "Tamil Nadu Education"
+  },
+  {
+    "GUID": "Giveaway_India_TamilNadu",
+    "name": "Tamil Nadu Giveaway"
   },
   {
     "GUID": "Classifieds_India_Gujarat",
-    "name": "Gujarat India Classifieds"
+    "name": "Gujarat Classifieds"
   },
   {
     "GUID": "Attorneys_India_Gujarat",
-    "name": "Gujarat India Attorneys"
+    "name": "Gujarat Attorneys"
   },
   {
     "GUID": "Doctors_India_Gujarat",
-    "name": "Gujarat India Doctors"
-  },
-  {
-    "GUID": "Matrimonials_India_Gujarat",
-    "name": "Gujarat India Matrimonials"
+    "name": "Gujarat Doctors"
   },
   {
     "GUID": "Professionals_India_Gujarat",
-    "name": "Gujarat India Professionals"
+    "name": "Gujarat Professionals"
   },
   {
-    "GUID": "Advertisements_India_Gujarat",
-    "name": "Gujarat India Advertisements"
+    "GUID": "Education_India_Gujarat",
+    "name": "Gujarat Education"
+  },
+  {
+    "GUID": "Giveaway_India_Gujarat",
+    "name": "Gujarat Giveaway"
   },
   {
     "GUID": "Classifieds_India_Kerala",
-    "name": "Kerala India Classifieds"
+    "name": "Kerala Classifieds"
   },
   {
     "GUID": "Attorneys_India_Kerala",
-    "name": "Kerala India Attorneys"
+    "name": "Kerala Attorneys"
   },
   {
     "GUID": "Doctors_India_Kerala",
-    "name": "Kerala India Doctors"
-  },
-  {
-    "GUID": "Matrimonials_India_Kerala",
-    "name": "Kerala India Matrimonials"
+    "name": "Kerala Doctors"
   },
   {
     "GUID": "Professionals_India_Kerala",
-    "name": "Kerala India Professionals"
+    "name": "Kerala Professionals"
   },
   {
-    "GUID": "Advertisements_India_Kerala",
-    "name": "Kerala India Advertisements"
+    "GUID": "Education_India_Kerala",
+    "name": "Kerala Education"
+  },
+  {
+    "GUID": "Giveaway_India_Kerala",
+    "name": "Kerala Giveaway"
   },
   {
     "GUID": "Classifieds_India_WestBengal",
-    "name": "West Bengal India Classifieds"
+    "name": "West Bengal Classifieds"
   },
   {
     "GUID": "Attorneys_India_WestBengal",
-    "name": "West Bengal India Attorneys"
+    "name": "West Bengal Attorneys"
   },
   {
     "GUID": "Doctors_India_WestBengal",
-    "name": "West Bengal India Doctors"
-  },
-  {
-    "GUID": "Matrimonials_India_WestBengal",
-    "name": "West Bengal India Matrimonials"
+    "name": "West Bengal Doctors"
   },
   {
     "GUID": "Professionals_India_WestBengal",
-    "name": "West Bengal India Professionals"
+    "name": "West Bengal Professionals"
   },
   {
-    "GUID": "Advertisements_India_WestBengal",
-    "name": "West Bengal India Advertisements"
+    "GUID": "Education_India_WestBengal",
+    "name": "West Bengal Education"
+  },
+  {
+    "GUID": "Giveaway_India_WestBengal",
+    "name": "West Bengal Giveaway"
   },
   {
     "GUID": "Classifieds_India_NewDelhi",
-    "name": "New Delhi India Classifieds"
+    "name": "New Delhi Classifieds"
   },
   {
     "GUID": "Attorneys_India_NewDelhi",
-    "name": "New Delhi India Attorneys"
+    "name": "New Delhi Attorneys"
   },
   {
     "GUID": "Doctors_India_NewDelhi",
-    "name": "New Delhi India Doctors"
-  },
-  {
-    "GUID": "Matrimonials_India_NewDelhi",
-    "name": "New Delhi India Matrimonials"
+    "name": "New Delhi Doctors"
   },
   {
     "GUID": "Professionals_India_NewDelhi",
-    "name": "New Delhi India Professionals"
+    "name": "New Delhi Professionals"
   },
   {
-    "GUID": "Advertisements_India_NewDelhi",
-    "name": "New Delhi India Advertisements"
+    "GUID": "Education_India_NewDelhi",
+    "name": "New Delhi Education"
+  },
+  {
+    "GUID": "Giveaway_India_NewDelhi",
+    "name": "New Delhi Giveaway"
   },
   {
     "GUID": "Classifieds_India_Hyderabad",
-    "name": "Hyderabad India Classifieds"
+    "name": "Hyderabad Classifieds"
   },
   {
     "GUID": "Attorneys_India_Hyderabad",
-    "name": "Hyderabad India Attorneys"
+    "name": "Hyderabad Attorneys"
   },
   {
     "GUID": "Doctors_India_Hyderabad",
-    "name": "Hyderabad India Doctors"
-  },
-  {
-    "GUID": "Matrimonials_India_Hyderabad",
-    "name": "Hyderabad India Matrimonials"
+    "name": "Hyderabad Doctors"
   },
   {
     "GUID": "Professionals_India_Hyderabad",
-    "name": "Hyderabad India Professionals"
+    "name": "Hyderabad Professionals"
   },
   {
-    "GUID": "Advertisements_India_Hyderabad",
-    "name": "Hyderabad India Advertisements"
+    "GUID": "Education_India_Hyderabad",
+    "name": "Hyderabad Education"
+  },
+  {
+    "GUID": "Giveaway_India_Hyderabad",
+    "name": "Hyderabad Giveaway"
   }
 ]

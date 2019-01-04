@@ -1,194 +1,194 @@
 [
   {
     "GUID": "Classifieds_UnitedKingdom_CentralLondon",
-    "name": "Central London United Kingdom Classifieds"
+    "name": "Central London Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedKingdom_CentralLondon",
-    "name": "Central London United Kingdom Attorneys"
+    "name": "Central London Attorneys"
   },
   {
     "GUID": "Doctors_UnitedKingdom_CentralLondon",
-    "name": "Central London United Kingdom Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedKingdom_CentralLondon",
-    "name": "Central London United Kingdom Matrimonials"
+    "name": "Central London Doctors"
   },
   {
     "GUID": "Professionals_UnitedKingdom_CentralLondon",
-    "name": "Central London United Kingdom Professionals"
+    "name": "Central London Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedKingdom_CentralLondon",
-    "name": "Central London United Kingdom Advertisements"
+    "GUID": "Education_UnitedKingdom_CentralLondon",
+    "name": "Central London Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedKingdom_CentralLondon",
+    "name": "Central London Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedKingdom_Paris",
-    "name": "Paris United Kingdom Classifieds"
+    "name": "Paris Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedKingdom_Paris",
-    "name": "Paris United Kingdom Attorneys"
+    "name": "Paris Attorneys"
   },
   {
     "GUID": "Doctors_UnitedKingdom_Paris",
-    "name": "Paris United Kingdom Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedKingdom_Paris",
-    "name": "Paris United Kingdom Matrimonials"
+    "name": "Paris Doctors"
   },
   {
     "GUID": "Professionals_UnitedKingdom_Paris",
-    "name": "Paris United Kingdom Professionals"
+    "name": "Paris Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedKingdom_Paris",
-    "name": "Paris United Kingdom Advertisements"
+    "GUID": "Education_UnitedKingdom_Paris",
+    "name": "Paris Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedKingdom_Paris",
+    "name": "Paris Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedKingdom_Manchester",
-    "name": "Manchester United Kingdom Classifieds"
+    "name": "Manchester Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedKingdom_Manchester",
-    "name": "Manchester United Kingdom Attorneys"
+    "name": "Manchester Attorneys"
   },
   {
     "GUID": "Doctors_UnitedKingdom_Manchester",
-    "name": "Manchester United Kingdom Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedKingdom_Manchester",
-    "name": "Manchester United Kingdom Matrimonials"
+    "name": "Manchester Doctors"
   },
   {
     "GUID": "Professionals_UnitedKingdom_Manchester",
-    "name": "Manchester United Kingdom Professionals"
+    "name": "Manchester Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedKingdom_Manchester",
-    "name": "Manchester United Kingdom Advertisements"
+    "GUID": "Education_UnitedKingdom_Manchester",
+    "name": "Manchester Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedKingdom_Manchester",
+    "name": "Manchester Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedKingdom_London",
-    "name": "London United Kingdom Classifieds"
+    "name": "London Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedKingdom_London",
-    "name": "London United Kingdom Attorneys"
+    "name": "London Attorneys"
   },
   {
     "GUID": "Doctors_UnitedKingdom_London",
-    "name": "London United Kingdom Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedKingdom_London",
-    "name": "London United Kingdom Matrimonials"
+    "name": "London Doctors"
   },
   {
     "GUID": "Professionals_UnitedKingdom_London",
-    "name": "London United Kingdom Professionals"
+    "name": "London Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedKingdom_London",
-    "name": "London United Kingdom Advertisements"
+    "GUID": "Education_UnitedKingdom_London",
+    "name": "London Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedKingdom_London",
+    "name": "London Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedKingdom_Liverpool",
-    "name": "Liverpool United Kingdom Classifieds"
+    "name": "Liverpool Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedKingdom_Liverpool",
-    "name": "Liverpool United Kingdom Attorneys"
+    "name": "Liverpool Attorneys"
   },
   {
     "GUID": "Doctors_UnitedKingdom_Liverpool",
-    "name": "Liverpool United Kingdom Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedKingdom_Liverpool",
-    "name": "Liverpool United Kingdom Matrimonials"
+    "name": "Liverpool Doctors"
   },
   {
     "GUID": "Professionals_UnitedKingdom_Liverpool",
-    "name": "Liverpool United Kingdom Professionals"
+    "name": "Liverpool Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedKingdom_Liverpool",
-    "name": "Liverpool United Kingdom Advertisements"
+    "GUID": "Education_UnitedKingdom_Liverpool",
+    "name": "Liverpool Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedKingdom_Liverpool",
+    "name": "Liverpool Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedKingdom_Birmingham",
-    "name": "Birmingham United Kingdom Classifieds"
+    "name": "Birmingham Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedKingdom_Birmingham",
-    "name": "Birmingham United Kingdom Attorneys"
+    "name": "Birmingham Attorneys"
   },
   {
     "GUID": "Doctors_UnitedKingdom_Birmingham",
-    "name": "Birmingham United Kingdom Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedKingdom_Birmingham",
-    "name": "Birmingham United Kingdom Matrimonials"
+    "name": "Birmingham Doctors"
   },
   {
     "GUID": "Professionals_UnitedKingdom_Birmingham",
-    "name": "Birmingham United Kingdom Professionals"
+    "name": "Birmingham Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedKingdom_Birmingham",
-    "name": "Birmingham United Kingdom Advertisements"
+    "GUID": "Education_UnitedKingdom_Birmingham",
+    "name": "Birmingham Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedKingdom_Birmingham",
+    "name": "Birmingham Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedKingdom_Cambridge",
-    "name": "Cambridge United Kingdom Classifieds"
+    "name": "Cambridge Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedKingdom_Cambridge",
-    "name": "Cambridge United Kingdom Attorneys"
+    "name": "Cambridge Attorneys"
   },
   {
     "GUID": "Doctors_UnitedKingdom_Cambridge",
-    "name": "Cambridge United Kingdom Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedKingdom_Cambridge",
-    "name": "Cambridge United Kingdom Matrimonials"
+    "name": "Cambridge Doctors"
   },
   {
     "GUID": "Professionals_UnitedKingdom_Cambridge",
-    "name": "Cambridge United Kingdom Professionals"
+    "name": "Cambridge Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedKingdom_Cambridge",
-    "name": "Cambridge United Kingdom Advertisements"
+    "GUID": "Education_UnitedKingdom_Cambridge",
+    "name": "Cambridge Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedKingdom_Cambridge",
+    "name": "Cambridge Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedKingdom_GlobalUK",
-    "name": "Global UK United Kingdom Classifieds"
+    "name": "Global UK Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedKingdom_GlobalUK",
-    "name": "Global UK United Kingdom Attorneys"
+    "name": "Global UK Attorneys"
   },
   {
     "GUID": "Doctors_UnitedKingdom_GlobalUK",
-    "name": "Global UK United Kingdom Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedKingdom_GlobalUK",
-    "name": "Global UK United Kingdom Matrimonials"
+    "name": "Global UK Doctors"
   },
   {
     "GUID": "Professionals_UnitedKingdom_GlobalUK",
-    "name": "Global UK United Kingdom Professionals"
+    "name": "Global UK Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedKingdom_GlobalUK",
-    "name": "Global UK United Kingdom Advertisements"
+    "GUID": "Education_UnitedKingdom_GlobalUK",
+    "name": "Global UK Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedKingdom_GlobalUK",
+    "name": "Global UK Giveaway"
   }
 ]

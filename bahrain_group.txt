@@ -12,15 +12,15 @@
     "name": "Bahrain Doctors"
   },
   {
-    "GUID": "Matrimonials_Bahrain",
-    "name": "Bahrain Matrimonials"
-  },
-  {
     "GUID": "Professionals_Bahrain",
     "name": "Bahrain Professionals"
   },
   {
-    "GUID": "Advertisements_Bahrain",
-    "name": "Bahrain Advertisements"
+    "GUID": "Education_Bahrain",
+    "name": "Bahrain Education"
+  },
+  {
+    "GUID": "Giveaway_Bahrain",
+    "name": "Bahrain Giveaway"
   }
 ]

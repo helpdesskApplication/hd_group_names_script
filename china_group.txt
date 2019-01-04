@@ -12,15 +12,15 @@
     "name": "China Doctors"
   },
   {
-    "GUID": "Matrimonials_China",
-    "name": "China Matrimonials"
-  },
-  {
     "GUID": "Professionals_China",
     "name": "China Professionals"
   },
   {
-    "GUID": "Advertisements_China",
-    "name": "China Advertisements"
+    "GUID": "Education_China",
+    "name": "China Education"
+  },
+  {
+    "GUID": "Giveaway_China",
+    "name": "China Giveaway"
   }
 ]

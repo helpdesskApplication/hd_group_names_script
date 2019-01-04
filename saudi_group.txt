@@ -12,15 +12,15 @@
     "name": "Saudi Doctors"
   },
   {
-    "GUID": "Matrimonials_Saudi",
-    "name": "Saudi Matrimonials"
-  },
-  {
     "GUID": "Professionals_Saudi",
     "name": "Saudi Professionals"
   },
   {
-    "GUID": "Advertisements_Saudi",
-    "name": "Saudi Advertisements"
+    "GUID": "Education_Saudi",
+    "name": "Saudi Education"
+  },
+  {
+    "GUID": "Giveaway_Saudi",
+    "name": "Saudi Giveaway"
   }
 ]

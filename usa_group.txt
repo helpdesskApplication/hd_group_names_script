@@ -1,1418 +1,1346 @@
 ﻿[
   {
     "GUID": "Classifieds_UnitedStates_Alabama",
-    "name": "Alabama United States Classifieds"
+    "name": "Alabama Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Alabama",
-    "name": "Alabama United States Attorneys"
+    "name": "Alabama Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Alabama",
-    "name": "Alabama United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Alabama",
-    "name": "Alabama United States Matrimonials"
+    "name": "Alabama Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Alabama",
-    "name": "Alabama United States Professionals"
+    "name": "Alabama Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Alabama",
-    "name": "Alabama United States Advertisements"
+    "GUID": "Education_UnitedStates_Alabama",
+    "name": "Alabama Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Alabama",
+    "name": "Alabama Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Alaska",
-    "name": "Alaska United States Classifieds"
+    "name": "Alaska Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Alaska",
-    "name": "Alaska United States Attorneys"
+    "name": "Alaska Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Alaska",
-    "name": "Alaska United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Alaska",
-    "name": "Alaska United States Matrimonials"
+    "name": "Alaska Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Alaska",
-    "name": "Alaska United States Professionals"
+    "name": "Alaska Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Alaska",
-    "name": "Alaska United States Advertisements"
+    "GUID": "Education_UnitedStates_Alaska",
+    "name": "Alaska Education"
   },
   {
-    "GUID": "Classifieds_UnitedStates_AmericanSamoa",
-    "name": "American Samoa United States Classifieds"
-  },
-  {
-    "GUID": "Attorneys_UnitedStates_AmericanSamoa",
-    "name": "American Samoa United States Attorneys"
-  },
-  {
-    "GUID": "Doctors_UnitedStates_AmericanSamoa",
-    "name": "American Samoa United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_AmericanSamoa",
-    "name": "American Samoa United States Matrimonials"
-  },
-  {
-    "GUID": "Professionals_UnitedStates_AmericanSamoa",
-    "name": "American Samoa United States Professionals"
-  },
-  {
-    "GUID": "Advertisements_UnitedStates_AmericanSamoa",
-    "name": "American Samoa United States Advertisements"
+    "GUID": "Giveaway_UnitedStates_Alaska",
+    "name": "Alaska Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Arizona",
-    "name": "Arizona United States Classifieds"
+    "name": "Arizona Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Arizona",
-    "name": "Arizona United States Attorneys"
+    "name": "Arizona Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Arizona",
-    "name": "Arizona United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Arizona",
-    "name": "Arizona United States Matrimonials"
+    "name": "Arizona Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Arizona",
-    "name": "Arizona United States Professionals"
+    "name": "Arizona Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Arizona",
-    "name": "Arizona United States Advertisements"
+    "GUID": "Education_UnitedStates_Arizona",
+    "name": "Arizona Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Arizona",
+    "name": "Arizona Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Arkansas",
-    "name": "Arkansas United States Classifieds"
+    "name": "Arkansas Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Arkansas",
-    "name": "Arkansas United States Attorneys"
+    "name": "Arkansas Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Arkansas",
-    "name": "Arkansas United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Arkansas",
-    "name": "Arkansas United States Matrimonials"
+    "name": "Arkansas Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Arkansas",
-    "name": "Arkansas United States Professionals"
+    "name": "Arkansas Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Arkansas",
-    "name": "Arkansas United States Advertisements"
+    "GUID": "Education_UnitedStates_Arkansas",
+    "name": "Arkansas Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Arkansas",
+    "name": "Arkansas Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_California",
-    "name": "California United States Classifieds"
+    "name": "California Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_California",
-    "name": "California United States Attorneys"
+    "name": "California Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_California",
-    "name": "California United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_California",
-    "name": "California United States Matrimonials"
+    "name": "California Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_California",
-    "name": "California United States Professionals"
+    "name": "California Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_California",
-    "name": "California United States Advertisements"
+    "GUID": "Education_UnitedStates_California",
+    "name": "California Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_California",
+    "name": "California Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Colorado",
-    "name": "Colorado United States Classifieds"
+    "name": "Colorado Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Colorado",
-    "name": "Colorado United States Attorneys"
+    "name": "Colorado Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Colorado",
-    "name": "Colorado United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Colorado",
-    "name": "Colorado United States Matrimonials"
+    "name": "Colorado Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Colorado",
-    "name": "Colorado United States Professionals"
+    "name": "Colorado Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Colorado",
-    "name": "Colorado United States Advertisements"
+    "GUID": "Education_UnitedStates_Colorado",
+    "name": "Colorado Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Colorado",
+    "name": "Colorado Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Connecticut",
-    "name": "Connecticut United States Classifieds"
+    "name": "Connecticut Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Connecticut",
-    "name": "Connecticut United States Attorneys"
+    "name": "Connecticut Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Connecticut",
-    "name": "Connecticut United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Connecticut",
-    "name": "Connecticut United States Matrimonials"
+    "name": "Connecticut Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Connecticut",
-    "name": "Connecticut United States Professionals"
+    "name": "Connecticut Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Connecticut",
-    "name": "Connecticut United States Advertisements"
+    "GUID": "Education_UnitedStates_Connecticut",
+    "name": "Connecticut Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Connecticut",
+    "name": "Connecticut Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Delaware",
-    "name": "Delaware United States Classifieds"
+    "name": "Delaware Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Delaware",
-    "name": "Delaware United States Attorneys"
+    "name": "Delaware Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Delaware",
-    "name": "Delaware United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Delaware",
-    "name": "Delaware United States Matrimonials"
+    "name": "Delaware Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Delaware",
-    "name": "Delaware United States Professionals"
+    "name": "Delaware Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Delaware",
-    "name": "Delaware United States Advertisements"
+    "GUID": "Education_UnitedStates_Delaware",
+    "name": "Delaware Education"
   },
   {
-    "GUID": "Classifieds_UnitedStates_DistrictOfColumbia",
-    "name": "District Of Columbia United States Classifieds"
-  },
-  {
-    "GUID": "Attorneys_UnitedStates_DistrictOfColumbia",
-    "name": "District Of Columbia United States Attorneys"
-  },
-  {
-    "GUID": "Doctors_UnitedStates_DistrictOfColumbia",
-    "name": "District Of Columbia United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_DistrictOfColumbia",
-    "name": "District Of Columbia United States Matrimonials"
-  },
-  {
-    "GUID": "Professionals_UnitedStates_DistrictOfColumbia",
-    "name": "District Of Columbia United States Professionals"
-  },
-  {
-    "GUID": "Advertisements_UnitedStates_DistrictOfColumbia",
-    "name": "District Of Columbia United States Advertisements"
-  },
-  {
-    "GUID": "Classifieds_UnitedStates_FederatedStatesOfMicronesia",
-    "name": "Federated States Of Micronesia United States Classifieds"
-  },
-  {
-    "GUID": "Attorneys_UnitedStates_FederatedStatesOfMicronesia",
-    "name": "Federated States Of Micronesia United States Attorneys"
-  },
-  {
-    "GUID": "Doctors_UnitedStates_FederatedStatesOfMicronesia",
-    "name": "Federated States Of Micronesia United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_FederatedStatesOfMicronesia",
-    "name": "Federated States Of Micronesia United States Matrimonials"
-  },
-  {
-    "GUID": "Professionals_UnitedStates_FederatedStatesOfMicronesia",
-    "name": "Federated States Of Micronesia United States Professionals"
-  },
-  {
-    "GUID": "Advertisements_UnitedStates_FederatedStatesOfMicronesia",
-    "name": "Federated States Of Micronesia United States Advertisements"
+    "GUID": "Giveaway_UnitedStates_Delaware",
+    "name": "Delaware Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Florida",
-    "name": "Florida United States Classifieds"
+    "name": "Florida Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Florida",
-    "name": "Florida United States Attorneys"
+    "name": "Florida Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Florida",
-    "name": "Florida United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Florida",
-    "name": "Florida United States Matrimonials"
+    "name": "Florida Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Florida",
-    "name": "Florida United States Professionals"
+    "name": "Florida Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Florida",
-    "name": "Florida United States Advertisements"
+    "GUID": "Education_UnitedStates_Florida",
+    "name": "Florida Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Florida",
+    "name": "Florida Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Georgia",
-    "name": "Georgia United States Classifieds"
+    "name": "Georgia Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Georgia",
-    "name": "Georgia United States Attorneys"
+    "name": "Georgia Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Georgia",
-    "name": "Georgia United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Georgia",
-    "name": "Georgia United States Matrimonials"
+    "name": "Georgia Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Georgia",
-    "name": "Georgia United States Professionals"
+    "name": "Georgia Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Georgia",
-    "name": "Georgia United States Advertisements"
+    "GUID": "Education_UnitedStates_Georgia",
+    "name": "Georgia Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Georgia",
+    "name": "Georgia Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Guam",
-    "name": "Guam United States Classifieds"
+    "name": "Guam Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Guam",
-    "name": "Guam United States Attorneys"
+    "name": "Guam Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Guam",
-    "name": "Guam United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Guam",
-    "name": "Guam United States Matrimonials"
+    "name": "Guam Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Guam",
-    "name": "Guam United States Professionals"
+    "name": "Guam Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Guam",
-    "name": "Guam United States Advertisements"
+    "GUID": "Education_UnitedStates_Guam",
+    "name": "Guam Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Guam",
+    "name": "Guam Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Hawaii",
-    "name": "Hawaii United States Classifieds"
+    "name": "Hawaii Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Hawaii",
-    "name": "Hawaii United States Attorneys"
+    "name": "Hawaii Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Hawaii",
-    "name": "Hawaii United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Hawaii",
-    "name": "Hawaii United States Matrimonials"
+    "name": "Hawaii Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Hawaii",
-    "name": "Hawaii United States Professionals"
+    "name": "Hawaii Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Hawaii",
-    "name": "Hawaii United States Advertisements"
+    "GUID": "Education_UnitedStates_Hawaii",
+    "name": "Hawaii Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Hawaii",
+    "name": "Hawaii Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Idaho",
-    "name": "Idaho United States Classifieds"
+    "name": "Idaho Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Idaho",
-    "name": "Idaho United States Attorneys"
+    "name": "Idaho Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Idaho",
-    "name": "Idaho United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Idaho",
-    "name": "Idaho United States Matrimonials"
+    "name": "Idaho Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Idaho",
-    "name": "Idaho United States Professionals"
+    "name": "Idaho Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Idaho",
-    "name": "Idaho United States Advertisements"
+    "GUID": "Education_UnitedStates_Idaho",
+    "name": "Idaho Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Idaho",
+    "name": "Idaho Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Illinois",
-    "name": "Illinois United States Classifieds"
+    "name": "Illinois Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Illinois",
-    "name": "Illinois United States Attorneys"
+    "name": "Illinois Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Illinois",
-    "name": "Illinois United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Illinois",
-    "name": "Illinois United States Matrimonials"
+    "name": "Illinois Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Illinois",
-    "name": "Illinois United States Professionals"
+    "name": "Illinois Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Illinois",
-    "name": "Illinois United States Advertisements"
+    "GUID": "Education_UnitedStates_Illinois",
+    "name": "Illinois Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Illinois",
+    "name": "Illinois Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Indiana",
-    "name": "Indiana United States Classifieds"
+    "name": "Indiana Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Indiana",
-    "name": "Indiana United States Attorneys"
+    "name": "Indiana Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Indiana",
-    "name": "Indiana United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Indiana",
-    "name": "Indiana United States Matrimonials"
+    "name": "Indiana Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Indiana",
-    "name": "Indiana United States Professionals"
+    "name": "Indiana Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Indiana",
-    "name": "Indiana United States Advertisements"
+    "GUID": "Education_UnitedStates_Indiana",
+    "name": "Indiana Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Indiana",
+    "name": "Indiana Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Iowa",
-    "name": "Iowa United States Classifieds"
+    "name": "Iowa Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Iowa",
-    "name": "Iowa United States Attorneys"
+    "name": "Iowa Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Iowa",
-    "name": "Iowa United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Iowa",
-    "name": "Iowa United States Matrimonials"
+    "name": "Iowa Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Iowa",
-    "name": "Iowa United States Professionals"
+    "name": "Iowa Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Iowa",
-    "name": "Iowa United States Advertisements"
+    "GUID": "Education_UnitedStates_Iowa",
+    "name": "Iowa Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Iowa",
+    "name": "Iowa Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Kansas",
-    "name": "Kansas United States Classifieds"
+    "name": "Kansas Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Kansas",
-    "name": "Kansas United States Attorneys"
+    "name": "Kansas Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Kansas",
-    "name": "Kansas United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Kansas",
-    "name": "Kansas United States Matrimonials"
+    "name": "Kansas Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Kansas",
-    "name": "Kansas United States Professionals"
+    "name": "Kansas Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Kansas",
-    "name": "Kansas United States Advertisements"
+    "GUID": "Education_UnitedStates_Kansas",
+    "name": "Kansas Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Kansas",
+    "name": "Kansas Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Kentucky",
-    "name": "Kentucky United States Classifieds"
+    "name": "Kentucky Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Kentucky",
-    "name": "Kentucky United States Attorneys"
+    "name": "Kentucky Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Kentucky",
-    "name": "Kentucky United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Kentucky",
-    "name": "Kentucky United States Matrimonials"
+    "name": "Kentucky Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Kentucky",
-    "name": "Kentucky United States Professionals"
+    "name": "Kentucky Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Kentucky",
-    "name": "Kentucky United States Advertisements"
+    "GUID": "Education_UnitedStates_Kentucky",
+    "name": "Kentucky Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Kentucky",
+    "name": "Kentucky Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Louisiana",
-    "name": "Louisiana United States Classifieds"
+    "name": "Louisiana Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Louisiana",
-    "name": "Louisiana United States Attorneys"
+    "name": "Louisiana Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Louisiana",
-    "name": "Louisiana United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Louisiana",
-    "name": "Louisiana United States Matrimonials"
+    "name": "Louisiana Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Louisiana",
-    "name": "Louisiana United States Professionals"
+    "name": "Louisiana Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Louisiana",
-    "name": "Louisiana United States Advertisements"
+    "GUID": "Education_UnitedStates_Louisiana",
+    "name": "Louisiana Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Louisiana",
+    "name": "Louisiana Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Maine",
-    "name": "Maine United States Classifieds"
+    "name": "Maine Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Maine",
-    "name": "Maine United States Attorneys"
+    "name": "Maine Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Maine",
-    "name": "Maine United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Maine",
-    "name": "Maine United States Matrimonials"
+    "name": "Maine Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Maine",
-    "name": "Maine United States Professionals"
+    "name": "Maine Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Maine",
-    "name": "Maine United States Advertisements"
+    "GUID": "Education_UnitedStates_Maine",
+    "name": "Maine Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Maine",
+    "name": "Maine Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_MarshallIslands",
-    "name": "Marshall Islands United States Classifieds"
+    "name": "Marshall Islands Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_MarshallIslands",
-    "name": "Marshall Islands United States Attorneys"
+    "name": "Marshall Islands Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_MarshallIslands",
-    "name": "Marshall Islands United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_MarshallIslands",
-    "name": "Marshall Islands United States Matrimonials"
+    "name": "Marshall Islands Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_MarshallIslands",
-    "name": "Marshall Islands United States Professionals"
+    "name": "Marshall Islands Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_MarshallIslands",
-    "name": "Marshall Islands United States Advertisements"
+    "GUID": "Education_UnitedStates_MarshallIslands",
+    "name": "Marshall Islands Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_MarshallIslands",
+    "name": "Marshall Islands Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Maryland",
-    "name": "Maryland United States Classifieds"
+    "name": "Maryland Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Maryland",
-    "name": "Maryland United States Attorneys"
+    "name": "Maryland Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Maryland",
-    "name": "Maryland United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Maryland",
-    "name": "Maryland United States Matrimonials"
+    "name": "Maryland Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Maryland",
-    "name": "Maryland United States Professionals"
+    "name": "Maryland Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Maryland",
-    "name": "Maryland United States Advertisements"
+    "GUID": "Education_UnitedStates_Maryland",
+    "name": "Maryland Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Maryland",
+    "name": "Maryland Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Massachusetts",
-    "name": "Massachusetts United States Classifieds"
+    "name": "Massachusetts Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Massachusetts",
-    "name": "Massachusetts United States Attorneys"
+    "name": "Massachusetts Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Massachusetts",
-    "name": "Massachusetts United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Massachusetts",
-    "name": "Massachusetts United States Matrimonials"
+    "name": "Massachusetts Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Massachusetts",
-    "name": "Massachusetts United States Professionals"
+    "name": "Massachusetts Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Massachusetts",
-    "name": "Massachusetts United States Advertisements"
+    "GUID": "Education_UnitedStates_Massachusetts",
+    "name": "Massachusetts Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Massachusetts",
+    "name": "Massachusetts Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Michigan",
-    "name": "Michigan United States Classifieds"
+    "name": "Michigan Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Michigan",
-    "name": "Michigan United States Attorneys"
+    "name": "Michigan Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Michigan",
-    "name": "Michigan United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Michigan",
-    "name": "Michigan United States Matrimonials"
+    "name": "Michigan Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Michigan",
-    "name": "Michigan United States Professionals"
+    "name": "Michigan Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Michigan",
-    "name": "Michigan United States Advertisements"
+    "GUID": "Education_UnitedStates_Michigan",
+    "name": "Michigan Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Michigan",
+    "name": "Michigan Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Minnesota",
-    "name": "Minnesota United States Classifieds"
+    "name": "Minnesota Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Minnesota",
-    "name": "Minnesota United States Attorneys"
+    "name": "Minnesota Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Minnesota",
-    "name": "Minnesota United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Minnesota",
-    "name": "Minnesota United States Matrimonials"
+    "name": "Minnesota Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Minnesota",
-    "name": "Minnesota United States Professionals"
+    "name": "Minnesota Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Minnesota",
-    "name": "Minnesota United States Advertisements"
+    "GUID": "Education_UnitedStates_Minnesota",
+    "name": "Minnesota Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Minnesota",
+    "name": "Minnesota Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Mississippi",
-    "name": "Mississippi United States Classifieds"
+    "name": "Mississippi Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Mississippi",
-    "name": "Mississippi United States Attorneys"
+    "name": "Mississippi Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Mississippi",
-    "name": "Mississippi United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Mississippi",
-    "name": "Mississippi United States Matrimonials"
+    "name": "Mississippi Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Mississippi",
-    "name": "Mississippi United States Professionals"
+    "name": "Mississippi Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Mississippi",
-    "name": "Mississippi United States Advertisements"
+    "GUID": "Education_UnitedStates_Mississippi",
+    "name": "Mississippi Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Mississippi",
+    "name": "Mississippi Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Missouri",
-    "name": "Missouri United States Classifieds"
+    "name": "Missouri Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Missouri",
-    "name": "Missouri United States Attorneys"
+    "name": "Missouri Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Missouri",
-    "name": "Missouri United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Missouri",
-    "name": "Missouri United States Matrimonials"
+    "name": "Missouri Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Missouri",
-    "name": "Missouri United States Professionals"
+    "name": "Missouri Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Missouri",
-    "name": "Missouri United States Advertisements"
+    "GUID": "Education_UnitedStates_Missouri",
+    "name": "Missouri Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Missouri",
+    "name": "Missouri Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Montana",
-    "name": "Montana United States Classifieds"
+    "name": "Montana Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Montana",
-    "name": "Montana United States Attorneys"
+    "name": "Montana Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Montana",
-    "name": "Montana United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Montana",
-    "name": "Montana United States Matrimonials"
+    "name": "Montana Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Montana",
-    "name": "Montana United States Professionals"
+    "name": "Montana Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Montana",
-    "name": "Montana United States Advertisements"
+    "GUID": "Education_UnitedStates_Montana",
+    "name": "Montana Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Montana",
+    "name": "Montana Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Nebraska",
-    "name": "Nebraska United States Classifieds"
+    "name": "Nebraska Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Nebraska",
-    "name": "Nebraska United States Attorneys"
+    "name": "Nebraska Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Nebraska",
-    "name": "Nebraska United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Nebraska",
-    "name": "Nebraska United States Matrimonials"
+    "name": "Nebraska Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Nebraska",
-    "name": "Nebraska United States Professionals"
+    "name": "Nebraska Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Nebraska",
-    "name": "Nebraska United States Advertisements"
+    "GUID": "Education_UnitedStates_Nebraska",
+    "name": "Nebraska Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Nebraska",
+    "name": "Nebraska Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Nevada",
-    "name": "Nevada United States Classifieds"
+    "name": "Nevada Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Nevada",
-    "name": "Nevada United States Attorneys"
+    "name": "Nevada Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Nevada",
-    "name": "Nevada United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Nevada",
-    "name": "Nevada United States Matrimonials"
+    "name": "Nevada Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Nevada",
-    "name": "Nevada United States Professionals"
+    "name": "Nevada Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Nevada",
-    "name": "Nevada United States Advertisements"
+    "GUID": "Education_UnitedStates_Nevada",
+    "name": "Nevada Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Nevada",
+    "name": "Nevada Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_NewHampshire",
-    "name": "New Hampshire United States Classifieds"
+    "name": "New Hampshire Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_NewHampshire",
-    "name": "New Hampshire United States Attorneys"
+    "name": "New Hampshire Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_NewHampshire",
-    "name": "New Hampshire United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_NewHampshire",
-    "name": "New Hampshire United States Matrimonials"
+    "name": "New Hampshire Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_NewHampshire",
-    "name": "New Hampshire United States Professionals"
+    "name": "New Hampshire Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_NewHampshire",
-    "name": "New Hampshire United States Advertisements"
+    "GUID": "Education_UnitedStates_NewHampshire",
+    "name": "New Hampshire Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_NewHampshire",
+    "name": "New Hampshire Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_NewJersey",
-    "name": "New Jersey United States Classifieds"
+    "name": "New Jersey Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_NewJersey",
-    "name": "New Jersey United States Attorneys"
+    "name": "New Jersey Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_NewJersey",
-    "name": "New Jersey United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_NewJersey",
-    "name": "New Jersey United States Matrimonials"
+    "name": "New Jersey Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_NewJersey",
-    "name": "New Jersey United States Professionals"
+    "name": "New Jersey Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_NewJersey",
-    "name": "New Jersey United States Advertisements"
+    "GUID": "Education_UnitedStates_NewJersey",
+    "name": "New Jersey Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_NewJersey",
+    "name": "New Jersey Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_NewMexico",
-    "name": "New Mexico United States Classifieds"
+    "name": "New Mexico Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_NewMexico",
-    "name": "New Mexico United States Attorneys"
+    "name": "New Mexico Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_NewMexico",
-    "name": "New Mexico United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_NewMexico",
-    "name": "New Mexico United States Matrimonials"
+    "name": "New Mexico Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_NewMexico",
-    "name": "New Mexico United States Professionals"
+    "name": "New Mexico Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_NewMexico",
-    "name": "New Mexico United States Advertisements"
+    "GUID": "Education_UnitedStates_NewMexico",
+    "name": "New Mexico Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_NewMexico",
+    "name": "New Mexico Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_NewYork",
-    "name": "New York United States Classifieds"
+    "name": "New York Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_NewYork",
-    "name": "New York United States Attorneys"
+    "name": "New York Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_NewYork",
-    "name": "New York United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_NewYork",
-    "name": "New York United States Matrimonials"
+    "name": "New York Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_NewYork",
-    "name": "New York United States Professionals"
+    "name": "New York Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_NewYork",
-    "name": "New York United States Advertisements"
+    "GUID": "Education_UnitedStates_NewYork",
+    "name": "New York Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_NewYork",
+    "name": "New York Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_NorthCarolina",
-    "name": "North Carolina United States Classifieds"
+    "name": "North Carolina Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_NorthCarolina",
-    "name": "North Carolina United States Attorneys"
+    "name": "North Carolina Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_NorthCarolina",
-    "name": "North Carolina United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_NorthCarolina",
-    "name": "North Carolina United States Matrimonials"
+    "name": "North Carolina Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_NorthCarolina",
-    "name": "North Carolina United States Professionals"
+    "name": "North Carolina Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_NorthCarolina",
-    "name": "North Carolina United States Advertisements"
+    "GUID": "Education_UnitedStates_NorthCarolina",
+    "name": "North Carolina Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_NorthCarolina",
+    "name": "North Carolina Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_NorthDakota",
-    "name": "North Dakota United States Classifieds"
+    "name": "North Dakota Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_NorthDakota",
-    "name": "North Dakota United States Attorneys"
+    "name": "North Dakota Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_NorthDakota",
-    "name": "North Dakota United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_NorthDakota",
-    "name": "North Dakota United States Matrimonials"
+    "name": "North Dakota Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_NorthDakota",
-    "name": "North Dakota United States Professionals"
+    "name": "North Dakota Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_NorthDakota",
-    "name": "North Dakota United States Advertisements"
+    "GUID": "Education_UnitedStates_NorthDakota",
+    "name": "North Dakota Education"
   },
   {
-    "GUID": "Classifieds_UnitedStates_NorthernMarianaIslands",
-    "name": "Northern Mariana Islands United States Classifieds"
-  },
-  {
-    "GUID": "Attorneys_UnitedStates_NorthernMarianaIslands",
-    "name": "Northern Mariana Islands United States Attorneys"
-  },
-  {
-    "GUID": "Doctors_UnitedStates_NorthernMarianaIslands",
-    "name": "Northern Mariana Islands United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_NorthernMarianaIslands",
-    "name": "Northern Mariana Islands United States Matrimonials"
-  },
-  {
-    "GUID": "Professionals_UnitedStates_NorthernMarianaIslands",
-    "name": "Northern Mariana Islands United States Professionals"
-  },
-  {
-    "GUID": "Advertisements_UnitedStates_NorthernMarianaIslands",
-    "name": "Northern Mariana Islands United States Advertisements"
+    "GUID": "Giveaway_UnitedStates_NorthDakota",
+    "name": "North Dakota Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Ohio",
-    "name": "Ohio United States Classifieds"
+    "name": "Ohio Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Ohio",
-    "name": "Ohio United States Attorneys"
+    "name": "Ohio Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Ohio",
-    "name": "Ohio United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Ohio",
-    "name": "Ohio United States Matrimonials"
+    "name": "Ohio Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Ohio",
-    "name": "Ohio United States Professionals"
+    "name": "Ohio Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Ohio",
-    "name": "Ohio United States Advertisements"
+    "GUID": "Education_UnitedStates_Ohio",
+    "name": "Ohio Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Ohio",
+    "name": "Ohio Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Oklahoma",
-    "name": "Oklahoma United States Classifieds"
+    "name": "Oklahoma Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Oklahoma",
-    "name": "Oklahoma United States Attorneys"
+    "name": "Oklahoma Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Oklahoma",
-    "name": "Oklahoma United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Oklahoma",
-    "name": "Oklahoma United States Matrimonials"
+    "name": "Oklahoma Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Oklahoma",
-    "name": "Oklahoma United States Professionals"
+    "name": "Oklahoma Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Oklahoma",
-    "name": "Oklahoma United States Advertisements"
+    "GUID": "Education_UnitedStates_Oklahoma",
+    "name": "Oklahoma Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Oklahoma",
+    "name": "Oklahoma Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Oregon",
-    "name": "Oregon United States Classifieds"
+    "name": "Oregon Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Oregon",
-    "name": "Oregon United States Attorneys"
+    "name": "Oregon Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Oregon",
-    "name": "Oregon United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Oregon",
-    "name": "Oregon United States Matrimonials"
+    "name": "Oregon Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Oregon",
-    "name": "Oregon United States Professionals"
+    "name": "Oregon Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Oregon",
-    "name": "Oregon United States Advertisements"
+    "GUID": "Education_UnitedStates_Oregon",
+    "name": "Oregon Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Oregon",
+    "name": "Oregon Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Palau",
-    "name": "Palau United States Classifieds"
+    "name": "Palau Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Palau",
-    "name": "Palau United States Attorneys"
+    "name": "Palau Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Palau",
-    "name": "Palau United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Palau",
-    "name": "Palau United States Matrimonials"
+    "name": "Palau Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Palau",
-    "name": "Palau United States Professionals"
+    "name": "Palau Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Palau",
-    "name": "Palau United States Advertisements"
+    "GUID": "Education_UnitedStates_Palau",
+    "name": "Palau Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Palau",
+    "name": "Palau Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Pennsylvania",
-    "name": "Pennsylvania United States Classifieds"
+    "name": "Pennsylvania Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Pennsylvania",
-    "name": "Pennsylvania United States Attorneys"
+    "name": "Pennsylvania Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Pennsylvania",
-    "name": "Pennsylvania United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Pennsylvania",
-    "name": "Pennsylvania United States Matrimonials"
+    "name": "Pennsylvania Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Pennsylvania",
-    "name": "Pennsylvania United States Professionals"
+    "name": "Pennsylvania Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Pennsylvania",
-    "name": "Pennsylvania United States Advertisements"
+    "GUID": "Education_UnitedStates_Pennsylvania",
+    "name": "Pennsylvania Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Pennsylvania",
+    "name": "Pennsylvania Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_PuertoRico",
-    "name": "Puerto Rico United States Classifieds"
+    "name": "Puerto Rico Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_PuertoRico",
-    "name": "Puerto Rico United States Attorneys"
+    "name": "Puerto Rico Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_PuertoRico",
-    "name": "Puerto Rico United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_PuertoRico",
-    "name": "Puerto Rico United States Matrimonials"
+    "name": "Puerto Rico Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_PuertoRico",
-    "name": "Puerto Rico United States Professionals"
+    "name": "Puerto Rico Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_PuertoRico",
-    "name": "Puerto Rico United States Advertisements"
+    "GUID": "Education_UnitedStates_PuertoRico",
+    "name": "Puerto Rico Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_PuertoRico",
+    "name": "Puerto Rico Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_RhodeIsland",
-    "name": "Rhode Island United States Classifieds"
+    "name": "Rhode Island Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_RhodeIsland",
-    "name": "Rhode Island United States Attorneys"
+    "name": "Rhode Island Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_RhodeIsland",
-    "name": "Rhode Island United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_RhodeIsland",
-    "name": "Rhode Island United States Matrimonials"
+    "name": "Rhode Island Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_RhodeIsland",
-    "name": "Rhode Island United States Professionals"
+    "name": "Rhode Island Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_RhodeIsland",
-    "name": "Rhode Island United States Advertisements"
+    "GUID": "Education_UnitedStates_RhodeIsland",
+    "name": "Rhode Island Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_RhodeIsland",
+    "name": "Rhode Island Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_SouthCarolina",
-    "name": "South Carolina United States Classifieds"
+    "name": "South Carolina Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_SouthCarolina",
-    "name": "South Carolina United States Attorneys"
+    "name": "South Carolina Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_SouthCarolina",
-    "name": "South Carolina United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_SouthCarolina",
-    "name": "South Carolina United States Matrimonials"
+    "name": "South Carolina Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_SouthCarolina",
-    "name": "South Carolina United States Professionals"
+    "name": "South Carolina Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_SouthCarolina",
-    "name": "South Carolina United States Advertisements"
+    "GUID": "Education_UnitedStates_SouthCarolina",
+    "name": "South Carolina Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_SouthCarolina",
+    "name": "South Carolina Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_SouthDakota",
-    "name": "South Dakota United States Classifieds"
+    "name": "South Dakota Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_SouthDakota",
-    "name": "South Dakota United States Attorneys"
+    "name": "South Dakota Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_SouthDakota",
-    "name": "South Dakota United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_SouthDakota",
-    "name": "South Dakota United States Matrimonials"
+    "name": "South Dakota Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_SouthDakota",
-    "name": "South Dakota United States Professionals"
+    "name": "South Dakota Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_SouthDakota",
-    "name": "South Dakota United States Advertisements"
+    "GUID": "Education_UnitedStates_SouthDakota",
+    "name": "South Dakota Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_SouthDakota",
+    "name": "South Dakota Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Tennessee",
-    "name": "Tennessee United States Classifieds"
+    "name": "Tennessee Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Tennessee",
-    "name": "Tennessee United States Attorneys"
+    "name": "Tennessee Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Tennessee",
-    "name": "Tennessee United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Tennessee",
-    "name": "Tennessee United States Matrimonials"
+    "name": "Tennessee Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Tennessee",
-    "name": "Tennessee United States Professionals"
+    "name": "Tennessee Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Tennessee",
-    "name": "Tennessee United States Advertisements"
+    "GUID": "Education_UnitedStates_Tennessee",
+    "name": "Tennessee Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Tennessee",
+    "name": "Tennessee Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Texas",
-    "name": "Texas United States Classifieds"
+    "name": "Texas Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Texas",
-    "name": "Texas United States Attorneys"
+    "name": "Texas Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Texas",
-    "name": "Texas United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Texas",
-    "name": "Texas United States Matrimonials"
+    "name": "Texas Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Texas",
-    "name": "Texas United States Professionals"
+    "name": "Texas Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Texas",
-    "name": "Texas United States Advertisements"
+    "GUID": "Education_UnitedStates_Texas",
+    "name": "Texas Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Texas",
+    "name": "Texas Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Utah",
-    "name": "Utah United States Classifieds"
+    "name": "Utah Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Utah",
-    "name": "Utah United States Attorneys"
+    "name": "Utah Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Utah",
-    "name": "Utah United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Utah",
-    "name": "Utah United States Matrimonials"
+    "name": "Utah Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Utah",
-    "name": "Utah United States Professionals"
+    "name": "Utah Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Utah",
-    "name": "Utah United States Advertisements"
+    "GUID": "Education_UnitedStates_Utah",
+    "name": "Utah Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Utah",
+    "name": "Utah Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Vermont",
-    "name": "Vermont United States Classifieds"
+    "name": "Vermont Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Vermont",
-    "name": "Vermont United States Attorneys"
+    "name": "Vermont Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Vermont",
-    "name": "Vermont United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Vermont",
-    "name": "Vermont United States Matrimonials"
+    "name": "Vermont Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Vermont",
-    "name": "Vermont United States Professionals"
+    "name": "Vermont Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Vermont",
-    "name": "Vermont United States Advertisements"
+    "GUID": "Education_UnitedStates_Vermont",
+    "name": "Vermont Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Vermont",
+    "name": "Vermont Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_VirginIslands",
-    "name": "Virgin Islands United States Classifieds"
+    "name": "Virgin Islands Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_VirginIslands",
-    "name": "Virgin Islands United States Attorneys"
+    "name": "Virgin Islands Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_VirginIslands",
-    "name": "Virgin Islands United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_VirginIslands",
-    "name": "Virgin Islands United States Matrimonials"
+    "name": "Virgin Islands Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_VirginIslands",
-    "name": "Virgin Islands United States Professionals"
+    "name": "Virgin Islands Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_VirginIslands",
-    "name": "Virgin Islands United States Advertisements"
+    "GUID": "Education_UnitedStates_VirginIslands",
+    "name": "Virgin Islands Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_VirginIslands",
+    "name": "Virgin Islands Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Virginia",
-    "name": "Virginia United States Classifieds"
+    "name": "Virginia Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Virginia",
-    "name": "Virginia United States Attorneys"
+    "name": "Virginia Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Virginia",
-    "name": "Virginia United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Virginia",
-    "name": "Virginia United States Matrimonials"
+    "name": "Virginia Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Virginia",
-    "name": "Virginia United States Professionals"
+    "name": "Virginia Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Virginia",
-    "name": "Virginia United States Advertisements"
+    "GUID": "Education_UnitedStates_Virginia",
+    "name": "Virginia Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Virginia",
+    "name": "Virginia Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Washington",
-    "name": "Washington United States Classifieds"
+    "name": "Washington Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Washington",
-    "name": "Washington United States Attorneys"
+    "name": "Washington Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Washington",
-    "name": "Washington United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Washington",
-    "name": "Washington United States Matrimonials"
+    "name": "Washington Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Washington",
-    "name": "Washington United States Professionals"
+    "name": "Washington Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Washington",
-    "name": "Washington United States Advertisements"
+    "GUID": "Education_UnitedStates_Washington",
+    "name": "Washington Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Washington",
+    "name": "Washington Giveaway"
+  },
+  {
+    "GUID": "Classifieds_UnitedStates_WashingtonDC",
+    "name": "Washington DC Classifieds"
+  },
+  {
+    "GUID": "Attorneys_UnitedStates_WashingtonDC",
+    "name": "Washington DC Attorneys"
+  },
+  {
+    "GUID": "Doctors_UnitedStates_WashingtonDC",
+    "name": "Washington DC Doctors"
+  },
+  {
+    "GUID": "Professionals_UnitedStates_WashingtonDC",
+    "name": "Washington DC Professionals"
+  },
+  {
+    "GUID": "Education_UnitedStates_WashingtonDC",
+    "name": "Washington DC Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_WashingtonDC",
+    "name": "Washington DC Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_WestVirginia",
-    "name": "West Virginia United States Classifieds"
+    "name": "West Virginia Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_WestVirginia",
-    "name": "West Virginia United States Attorneys"
+    "name": "West Virginia Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_WestVirginia",
-    "name": "West Virginia United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_WestVirginia",
-    "name": "West Virginia United States Matrimonials"
+    "name": "West Virginia Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_WestVirginia",
-    "name": "West Virginia United States Professionals"
+    "name": "West Virginia Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_WestVirginia",
-    "name": "West Virginia United States Advertisements"
+    "GUID": "Education_UnitedStates_WestVirginia",
+    "name": "West Virginia Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_WestVirginia",
+    "name": "West Virginia Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Wisconsin",
-    "name": "Wisconsin United States Classifieds"
+    "name": "Wisconsin Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Wisconsin",
-    "name": "Wisconsin United States Attorneys"
+    "name": "Wisconsin Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Wisconsin",
-    "name": "Wisconsin United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Wisconsin",
-    "name": "Wisconsin United States Matrimonials"
+    "name": "Wisconsin Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Wisconsin",
-    "name": "Wisconsin United States Professionals"
+    "name": "Wisconsin Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Wisconsin",
-    "name": "Wisconsin United States Advertisements"
+    "GUID": "Education_UnitedStates_Wisconsin",
+    "name": "Wisconsin Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Wisconsin",
+    "name": "Wisconsin Giveaway"
   },
   {
     "GUID": "Classifieds_UnitedStates_Wyoming",
-    "name": "Wyoming United States Classifieds"
+    "name": "Wyoming Classifieds"
   },
   {
     "GUID": "Attorneys_UnitedStates_Wyoming",
-    "name": "Wyoming United States Attorneys"
+    "name": "Wyoming Attorneys"
   },
   {
     "GUID": "Doctors_UnitedStates_Wyoming",
-    "name": "Wyoming United States Doctors"
-  },
-  {
-    "GUID": "Matrimonials_UnitedStates_Wyoming",
-    "name": "Wyoming United States Matrimonials"
+    "name": "Wyoming Doctors"
   },
   {
     "GUID": "Professionals_UnitedStates_Wyoming",
-    "name": "Wyoming United States Professionals"
+    "name": "Wyoming Professionals"
   },
   {
-    "GUID": "Advertisements_UnitedStates_Wyoming",
-    "name": "Wyoming United States Advertisements"
+    "GUID": "Education_UnitedStates_Wyoming",
+    "name": "Wyoming Education"
+  },
+  {
+    "GUID": "Giveaway_UnitedStates_Wyoming",
+    "name": "Wyoming Giveaway"
   }
 ]

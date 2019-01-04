@@ -12,15 +12,15 @@
     "name": "Pakistan Doctors"
   },
   {
-    "GUID": "Matrimonials_Pakistan",
-    "name": "Pakistan Matrimonials"
-  },
-  {
     "GUID": "Professionals_Pakistan",
     "name": "Pakistan Professionals"
   },
   {
-    "GUID": "Advertisements_Pakistan",
-    "name": "Pakistan Advertisements"
+    "GUID": "Education_Pakistan",
+    "name": "Pakistan Education"
+  },
+  {
+    "GUID": "Giveaway_Pakistan",
+    "name": "Pakistan Giveaway"
   }
 ]

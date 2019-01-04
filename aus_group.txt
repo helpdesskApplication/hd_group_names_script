@@ -1,122 +1,122 @@
 [
   {
-    "GUID": "Classifieds_Sydney",
+    "GUID": "Classifieds_Australia_Sydney",
     "name": "Sydney Classifieds"
   },
   {
-    "GUID": "Attorneys_Sydney",
+    "GUID": "Attorneys_Australia_Sydney",
     "name": "Sydney Attorneys"
   },
   {
-    "GUID": "Doctors_Sydney",
+    "GUID": "Doctors_Australia_Sydney",
     "name": "Sydney Doctors"
   },
   {
-    "GUID": "Matrimonials_Sydney",
-    "name": "Sydney Matrimonials"
-  },
-  {
-    "GUID": "Professionals_Sydney",
+    "GUID": "Professionals_Australia_Sydney",
     "name": "Sydney Professionals"
   },
   {
-    "GUID": "Advertisements_Sydney",
-    "name": "Sydney Advertisements"
+    "GUID": "Education_Australia_Sydney",
+    "name": "Sydney Education"
   },
   {
-    "GUID": "Classifieds_Perth",
+    "GUID": "Giveaway_Australia_Sydney",
+    "name": "Sydney Giveaway"
+  },
+  {
+    "GUID": "Classifieds_Australia_Perth",
     "name": "Perth Classifieds"
   },
   {
-    "GUID": "Attorneys_Perth",
+    "GUID": "Attorneys_Australia_Perth",
     "name": "Perth Attorneys"
   },
   {
-    "GUID": "Doctors_Perth",
+    "GUID": "Doctors_Australia_Perth",
     "name": "Perth Doctors"
   },
   {
-    "GUID": "Matrimonials_Perth",
-    "name": "Perth Matrimonials"
-  },
-  {
-    "GUID": "Professionals_Perth",
+    "GUID": "Professionals_Australia_Perth",
     "name": "Perth Professionals"
   },
   {
-    "GUID": "Advertisements_Perth",
-    "name": "Perth Advertisements"
+    "GUID": "Education_Australia_Perth",
+    "name": "Perth Education"
   },
   {
-    "GUID": "Classifieds_Melbourne",
+    "GUID": "Giveaway_Australia_Perth",
+    "name": "Perth Giveaway"
+  },
+  {
+    "GUID": "Classifieds_Australia_Melbourne",
     "name": "Melbourne Classifieds"
   },
   {
-    "GUID": "Attorneys_Melbourne",
+    "GUID": "Attorneys_Australia_Melbourne",
     "name": "Melbourne Attorneys"
   },
   {
-    "GUID": "Doctors_Melbourne",
+    "GUID": "Doctors_Australia_Melbourne",
     "name": "Melbourne Doctors"
   },
   {
-    "GUID": "Matrimonials_Melbourne",
-    "name": "Melbourne Matrimonials"
-  },
-  {
-    "GUID": "Professionals_Melbourne",
+    "GUID": "Professionals_Australia_Melbourne",
     "name": "Melbourne Professionals"
   },
   {
-    "GUID": "Advertisements_Melbourne",
-    "name": "Melbourne Advertisements"
+    "GUID": "Education_Australia_Melbourne",
+    "name": "Melbourne Education"
   },
   {
-    "GUID": "Classifieds_Victoria",
+    "GUID": "Giveaway_Australia_Melbourne",
+    "name": "Melbourne Giveaway"
+  },
+  {
+    "GUID": "Classifieds_Australia_Victoria",
     "name": "Victoria Classifieds"
   },
   {
-    "GUID": "Attorneys_Victoria",
+    "GUID": "Attorneys_Australia_Victoria",
     "name": "Victoria Attorneys"
   },
   {
-    "GUID": "Doctors_Victoria",
+    "GUID": "Doctors_Australia_Victoria",
     "name": "Victoria Doctors"
   },
   {
-    "GUID": "Matrimonials_Victoria",
-    "name": "Victoria Matrimonials"
-  },
-  {
-    "GUID": "Professionals_Victoria",
+    "GUID": "Professionals_Australia_Victoria",
     "name": "Victoria Professionals"
   },
   {
-    "GUID": "Advertisements_Victoria",
-    "name": "Victoria Advertisements"
+    "GUID": "Education_Australia_Victoria",
+    "name": "Victoria Education"
   },
   {
-    "GUID": "Classifieds_GlobalAustralia",
+    "GUID": "Giveaway_Australia_Victoria",
+    "name": "Victoria Giveaway"
+  },
+  {
+    "GUID": "Classifieds_Australia_GlobalAustralia",
     "name": "Global Australia Classifieds"
   },
   {
-    "GUID": "Attorneys_GlobalAustralia",
+    "GUID": "Attorneys_Australia_GlobalAustralia",
     "name": "Global Australia Attorneys"
   },
   {
-    "GUID": "Doctors_GlobalAustralia",
+    "GUID": "Doctors_Australia_GlobalAustralia",
     "name": "Global Australia Doctors"
   },
   {
-    "GUID": "Matrimonials_GlobalAustralia",
-    "name": "Global Australia Matrimonials"
-  },
-  {
-    "GUID": "Professionals_GlobalAustralia",
+    "GUID": "Professionals_Australia_GlobalAustralia",
     "name": "Global Australia Professionals"
   },
   {
-    "GUID": "Advertisements_GlobalAustralia",
-    "name": "Global Australia Advertisements"
+    "GUID": "Education_Australia_GlobalAustralia",
+    "name": "Global Australia Education"
+  },
+  {
+    "GUID": "Giveaway_Australia_GlobalAustralia",
+    "name": "Global Australia Giveaway"
   }
 ]

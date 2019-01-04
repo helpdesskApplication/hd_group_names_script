@@ -12,15 +12,15 @@
     "name": "Qatar Doctors"
   },
   {
-    "GUID": "Matrimonials_Qatar",
-    "name": "Qatar Matrimonials"
-  },
-  {
     "GUID": "Professionals_Qatar",
     "name": "Qatar Professionals"
   },
   {
-    "GUID": "Advertisements_Qatar",
-    "name": "Qatar Advertisements"
+    "GUID": "Education_Qatar",
+    "name": "Qatar Education"
+  },
+  {
+    "GUID": "Giveaway_Qatar",
+    "name": "Qatar Giveaway"
   }
 ]

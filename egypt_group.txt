@@ -12,15 +12,15 @@
     "name": "Egypt Doctors"
   },
   {
-    "GUID": "Matrimonials_Egypt",
-    "name": "Egypt Matrimonials"
-  },
-  {
     "GUID": "Professionals_Egypt",
     "name": "Egypt Professionals"
   },
   {
-    "GUID": "Advertisements_Egypt",
-    "name": "Egypt Advertisements"
+    "GUID": "Education_Egypt",
+    "name": "Egypt Education"
+  },
+  {
+    "GUID": "Giveaway_Egypt",
+    "name": "Egypt Giveaway"
   }
 ]

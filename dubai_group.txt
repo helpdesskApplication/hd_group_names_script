@@ -12,15 +12,15 @@
     "name": "Dubai Doctors"
   },
   {
-    "GUID": "Matrimonials_Dubai",
-    "name": "Dubai Matrimonials"
-  },
-  {
     "GUID": "Professionals_Dubai",
     "name": "Dubai Professionals"
   },
   {
-    "GUID": "Advertisements_Dubai",
-    "name": "Dubai Advertisements"
+    "GUID": "Education_Dubai",
+    "name": "Dubai Education"
+  },
+  {
+    "GUID": "Giveaway_Dubai",
+    "name": "Dubai Giveaway"
   }
 ]

@@ -12,15 +12,15 @@
     "name": "Philippines Doctors"
   },
   {
-    "GUID": "Matrimonials_Philippines",
-    "name": "Philippines Matrimonials"
-  },
-  {
     "GUID": "Professionals_Philippines",
     "name": "Philippines Professionals"
   },
   {
-    "GUID": "Advertisements_Philippines",
-    "name": "Philippines Advertisements"
+    "GUID": "Education_Philippines",
+    "name": "Philippines Education"
+  },
+  {
+    "GUID": "Giveaway_Philippines",
+    "name": "Philippines Giveaway"
   }
 ]

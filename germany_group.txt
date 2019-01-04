@@ -12,15 +12,15 @@
     "name": "Germany Doctors"
   },
   {
-    "GUID": "Matrimonials_Germany",
-    "name": "Germany Matrimonials"
-  },
-  {
     "GUID": "Professionals_Germany",
     "name": "Germany Professionals"
   },
   {
-    "GUID": "Advertisements_Germany",
-    "name": "Germany Advertisements"
+    "GUID": "Education_Germany",
+    "name": "Germany Education"
+  },
+  {
+    "GUID": "Giveaway_Germany",
+    "name": "Germany Giveaway"
   }
 ]

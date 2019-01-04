@@ -12,15 +12,15 @@
     "name": "Indonesia Doctors"
   },
   {
-    "GUID": "Matrimonials_Indonesia",
-    "name": "Indonesia Matrimonials"
-  },
-  {
     "GUID": "Professionals_Indonesia",
     "name": "Indonesia Professionals"
   },
   {
-    "GUID": "Advertisements_Indonesia",
-    "name": "Indonesia Advertisements"
+    "GUID": "Education_Indonesia",
+    "name": "Indonesia Education"
+  },
+  {
+    "GUID": "Giveaway_Indonesia",
+    "name": "Indonesia Giveaway"
   }
 ]

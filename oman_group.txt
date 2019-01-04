@@ -12,15 +12,15 @@
     "name": "Oman Doctors"
   },
   {
-    "GUID": "Matrimonials_Oman",
-    "name": "Oman Matrimonials"
-  },
-  {
     "GUID": "Professionals_Oman",
     "name": "Oman Professionals"
   },
   {
-    "GUID": "Advertisements_Oman",
-    "name": "Oman Advertisements"
+    "GUID": "Education_Oman",
+    "name": "Oman Education"
+  },
+  {
+    "GUID": "Giveaway_Oman",
+    "name": "Oman Giveaway"
   }
 ]

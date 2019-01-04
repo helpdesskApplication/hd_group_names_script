@@ -1,26 +1,50 @@
 [
   {
-    "GUID": "Classifieds_Bangladesh",
-    "name": "Bangladesh Classifieds"
+    "GUID": "Classifieds_Bangladesh_Dhaka",
+    "name": "Dhaka Classifieds"
   },
   {
-    "GUID": "Attorneys_Bangladesh",
-    "name": "Bangladesh Attorneys"
+    "GUID": "Attorneys_Bangladesh_Dhaka",
+    "name": "Dhaka Attorneys"
   },
   {
-    "GUID": "Doctors_Bangladesh",
-    "name": "Bangladesh Doctors"
+    "GUID": "Doctors_Bangladesh_Dhaka",
+    "name": "Dhaka Doctors"
   },
   {
-    "GUID": "Matrimonials_Bangladesh",
-    "name": "Bangladesh Matrimonials"
+    "GUID": "Professionals_Bangladesh_Dhaka",
+    "name": "Dhaka Professionals"
   },
   {
-    "GUID": "Professionals_Bangladesh",
-    "name": "Bangladesh Professionals"
+    "GUID": "Education_Bangladesh_Dhaka",
+    "name": "Dhaka Education"
   },
   {
-    "GUID": "Advertisements_Bangladesh",
-    "name": "Bangladesh Advertisements"
+    "GUID": "Giveaway_Bangladesh_Dhaka",
+    "name": "Dhaka Giveaway"
+  },
+  {
+    "GUID": "Classifieds_Bangladesh_Chittagong",
+    "name": "Chittagong Classifieds"
+  },
+  {
+    "GUID": "Attorneys_Bangladesh_Chittagong",
+    "name": "Chittagong Attorneys"
+  },
+  {
+    "GUID": "Doctors_Bangladesh_Chittagong",
+    "name": "Chittagong Doctors"
+  },
+  {
+    "GUID": "Professionals_Bangladesh_Chittagong",
+    "name": "Chittagong Professionals"
+  },
+  {
+    "GUID": "Education_Bangladesh_Chittagong",
+    "name": "Chittagong Education"
+  },
+  {
+    "GUID": "Giveaway_Bangladesh_Chittagong",
+    "name": "Chittagong Giveaway"
   }
 ]
